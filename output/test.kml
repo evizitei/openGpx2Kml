@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <open>1</open>
+    <Snippet maxLines="1"/>
+    <description><![CDATA[02-02-2013 03:18:27 PM<br/><br/>TF1 Converter Version 1.0<br/>MO Task Force 1<br/>]]></description>
+    <Style id="sn_noicon">
+      <IconStyle>
+        <Icon/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\01.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\03.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\04.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\11.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\18.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\15.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\13.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\14.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\19.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\16.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\21.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\22.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\23.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\02.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+      <Placemark>
+        <name>001</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\default.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
