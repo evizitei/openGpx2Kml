@@ -103,12 +103,14 @@ module TF1Converter
     end
 
     def description_for(waypoint, lat, long)
+      utm = GeoSwap.lat_long_to_utm(lat.to_f, long.to_f)
+      usng = GeoSwap.utm_to_usng(utm.easting, utm.northing, utm.zone.number, utm.zone.letter)
       desc = ""
       desc << field_for(waypoint, 'cmt')
       desc << '<br>' << DATA_MAPPING[field_for(waypoint, 'sym')][:meaning]
       desc << '<br>' << "KML file, track, and waypoint comment."
-      desc << "<br>" << "USNG:  TODO GET USNG"
-      desc << "<br>" << "UTM:  #{GeoSwap.lat_long_to_utm(lat.to_f, long.to_f).to_s}"
+      desc << "<br>" << "USNG:  #{usng}"
+      desc << "<br>" << "UTM:  #{utm.to_s}"
       desc << "<br>" << "#{START_PATH} - #{END_PATH}"
     end
 
