@@ -1,20 +1,3 @@
-example = %Q{<Placemark>
-		<name>001</name>
-		<Snippet maxLines="0"></Snippet>
-		<Style id="normalPlacemark">
-			<IconStyle>
-				<Icon>
-					<href>c:\program files\gpx2kml\icon\tf_ge\01.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<description><![CDATA[18-OCT-09 2:17:38PM<br>Search Start<br>KML file, track, and waypoint comment.<br>USNG:  15SWD6092208133<br>UTM:  15S 560921.64 4308133.45<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
-		<Point>
-			<coordinates>-92.2972443,38.9199972</coordinates>
-		</Point>
-	</Placemark>
-}
-
 require 'nokogiri'
 require 'builder'
 

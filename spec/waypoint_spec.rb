@@ -1,4 +1,4 @@
-require_relative '../lib/waypoint'
+require_relative '../lib/tf1_converter/waypoint'
 
 module TF1Converter
 
