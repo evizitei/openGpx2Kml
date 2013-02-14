@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require 'tf1_converter'
+
+config_file = ARGV[0]
+TF1Converter::Config.load(config_file)
+
+input = File.open(TF1Converter::Config.input, 'r')
+output = File.open(TF1Converter::Config.output, 'w')
+TF1Converter::Translation.from(input).into(output)
