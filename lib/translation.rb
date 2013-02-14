@@ -35,6 +35,7 @@ module TF1Converter
             end
 
             xml.Style(id: "sn_noicon") { xml.IconStyle { xml.Icon } }
+
             xml.Folder do
               xml.name "Waypoints"
 
@@ -63,6 +64,36 @@ module TF1Converter
                   end
                 end
               end
+            end
+
+            xml.Folder do
+              xml.name "Tracks"
+
+              gpx.xpath('//gpx/trk').each do |track|
+                name = track.xpath('//name').first.text
+                xml.Style(id: "#{name}_Style") do
+                  xml.LineStyle do
+                    xml.color(color_for(track.xpath('//DisplayColor').first.text))
+                    xml.width 3
+                  end
+                end
+
+                xml.Placemark(id: name) do
+                  xml.name name
+                  xml.description do
+                    xml.cdata "KML file, track, and waypoint comment."
+                  end
+                  xml.styleUrl "##{name}_Style"
+                  xml.LineString do
+                    xml.extrude 1
+                    xml.tessellate 1
+                    xml.altitudeMode 'clampedToGround'
+                    xml.coordinates(coordinates_for(track))
+                  end
+                end
+
+              end
+
             end
           end
         end
@@ -112,6 +143,21 @@ module TF1Converter
       desc << "<br>" << "USNG:  #{usng}"
       desc << "<br>" << "UTM:  #{utm.to_s}"
       desc << "<br>" << "#{START_PATH} - #{END_PATH}"
+    end
+
+    COLOR_MAP = {
+      'DarkRed' => 'f0000080',
+      'Yellow' => 'f000ffff'
+    }
+
+    def color_for(color)
+      COLOR_MAP[color]
+    end
+
+    def coordinates_for(track)
+      track.xpath('//trkseg/trkpt').inject([]) { |points, trackpoint|
+        points << ("" << trackpoint.attribute('lon').value.strip << ',' << trackpoint.attribute('lat').value.strip << ',0')
+      }.join(' ')
     end
 
     def field_for(waypoint, field)
