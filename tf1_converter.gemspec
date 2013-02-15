@@ -20,6 +20,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rake', '10.0.3'
   gem.add_development_dependency 'rspec', '2.12.0'
   gem.add_development_dependency 'pry', '0.9.11.4'
+  gem.add_development_dependency 'timecop', '0.5.9.2'
 
   gem.add_dependency 'thor'
   gem.add_dependency 'nokogiri'
