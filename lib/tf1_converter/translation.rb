@@ -36,7 +36,7 @@ module TF1Converter
 
               gpx.xpath('//gpx/wpt').each do |waypoint|
                 xml.Placemark do
-                  xml.name(waypoint.xpath('//name').first.text)
+                  xml.name(waypoint.xpath('name').first.text)
                   xml.Snippet(maxLines: '0')
                   xml.Style(id: 'normalPlacemark') do
                     xml.IconStyle do
@@ -65,10 +65,11 @@ module TF1Converter
               xml.name "Tracks"
 
               gpx.xpath('//gpx/trk').each do |track|
-                name = track.xpath('//name').first.text
+                name = track.xpath('name').first.text
                 xml.Style(id: "#{name}_Style") do
                   xml.LineStyle do
-                    xml.color(color_for(track.xpath('//DisplayColor').first.text))
+                    display_color = track.xpath('extensions/TrackExtension/DisplayColor').first.text
+                    xml.color(color_for(display_color))
                     xml.width 3
                   end
                 end
@@ -117,7 +118,7 @@ module TF1Converter
     end
 
     def coordinates_for(track)
-      track.xpath('//trkseg/trkpt').inject([]) { |points, trackpoint|
+      track.xpath('trkseg/trkpt').inject([]) { |points, trackpoint|
         points << ("" << trackpoint.attribute('lon').value.strip << ',' << trackpoint.attribute('lat').value.strip << ',0')
       }.join(' ')
     end
