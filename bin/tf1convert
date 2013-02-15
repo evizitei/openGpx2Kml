@@ -4,7 +4,14 @@ require 'tf1_converter'
 
 config_file = ARGV[0]
 TF1Converter::Config.load(config_file)
+input_path = TF1Converter::Config.input
+output_path = TF1Converter::Config.output
 
-input = File.open(TF1Converter::Config.input, 'r')
-output = File.open(TF1Converter::Config.output, 'w')
-TF1Converter::Translation.from(input).into(output)
+Dir.foreach(input_path) do |file|
+  unless ['.', '..'].include? file
+    input = File.open("#{input_path}/#{file}", 'r')
+    outfile = file.gsub(/\.gpx$/, '.kml')
+    output = File.open("#{output_path}/#{outfile}", 'w')
+    TF1Converter::Translation.from(input).into(output)
+  end
+end
