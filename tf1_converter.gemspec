@@ -24,5 +24,5 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'thor'
   gem.add_dependency 'nokogiri'
   gem.add_dependency 'builder'
-  gem.add_dependency 'geo_swap', '0.2.0'
+  gem.add_dependency 'geo_swap', '0.2.1'
 end
