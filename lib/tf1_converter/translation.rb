@@ -1,6 +1,5 @@
 require 'nokogiri'
 require 'geo_swap'
-require 'pry'
 
 module TF1Converter
   class Translation
