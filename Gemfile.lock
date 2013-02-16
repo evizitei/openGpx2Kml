@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tf1_converter (0.3.1)
+    tf1_converter (0.3.2)
       builder
       geo_swap (= 0.2.1)
       nokogiri
