@@ -1,8 +1,9 @@
 module TF1Converter
   module Gpx
     class Waypoint
-      def initialize(xml_node)
+      def initialize(xml_node, icon_map = TF1Converter::Config.icons)
         @node = xml_node
+        @icon_map = icon_map
       end
 
       def name
@@ -10,11 +11,19 @@ module TF1Converter
       end
 
       def icon_name
-        Config.icons[symbol_name]['icon']
+        if symbol_name
+          map_entry = @icon_map[symbol_name]
+          return map_entry['icon'] if map_entry
+        end
+        'default.png'
       end
 
       def icon_meaning
-        Config.icons[symbol_name]['meaning']
+        if symbol_name
+          map_entry = @icon_map[symbol_name]
+          return map_entry['meaning'] if map_entry
+        end
+        'Default'
       end
 
       def timestamp
@@ -45,7 +54,12 @@ module TF1Converter
       end
 
       def symbol_name
-        @node.children.select{ |child| child.name == 'sym' }.first.text
+        sym_node = @node.children.select{ |child| child.name == 'sym' }.first
+        if sym_node
+          sym_node.text
+        else
+          nil
+        end
       end
 
     end
