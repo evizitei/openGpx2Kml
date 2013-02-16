@@ -29,4 +29,5 @@ tf1_converter:
            Custom 22: { icon: 23.png, meaning: Extra 23},
            Residence: { icon: default.png, meaning: Default } }
   colors: { DarkRed: f0000080,
-            Yellow: f000ffff }
+            Yellow: f000ffff,
+            Blue: f0ff0000 }
