@@ -3,8 +3,9 @@ require_relative 'trackpoint'
 module TF1Converter
   module Gpx
     class Track
-      def initialize(xml_node)
+      def initialize(xml_node, color_map = TF1Converter::Config.colors)
         @node = xml_node
+        @color_map = color_map
       end
 
       def name
@@ -12,8 +13,12 @@ module TF1Converter
       end
 
       def display_color
-        color_name = @node.xpath('extensions/TrackExtension/DisplayColor').first.text
-        Config.colors[color_name]
+        color_node = @node.xpath('extensions/TrackExtension/DisplayColor').first
+        if color_node
+          @color_map[color_node.text]
+        else
+          'f0000080'
+        end
       end
 
       def coordinate_string
