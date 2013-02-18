@@ -95,6 +95,7 @@ module TF1Converter
       desc << '<br>' << "KML file, track, and waypoint comment."
       desc << "<br>" << "USNG:  #{waypoint.usng}"
       desc << "<br>" << "UTM:  #{waypoint.utm}"
+      desc << "<br>" << "Lat/Long:  #{waypoint.lat}/#{waypoint.long}"
       desc << "<br>" << "#{Config.start_path} - #{Config.end_path}"
     end
 
