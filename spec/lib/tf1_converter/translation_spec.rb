@@ -33,5 +33,14 @@ module TF1Converter
       #should not raise error
       TF1Converter::Translation.from(input).into(output)
     end
+
+    it 'translates waypoints by name' do
+      input = File.open("#{path}/waypoint-by-name.gpx", 'r')
+      output = File.open("#{path}/waypoint-by-name.kml", 'w')
+      TF1Converter::Config.load(File.expand_path('../../../example/config.yml', local_dir))
+      TF1Converter::Translation.from(input).into(output)
+      result = File.open("#{path}/waypoint-by-name.kml", 'r')
+      result.read.should_not =~ /default\.png/
+    end
   end
 end

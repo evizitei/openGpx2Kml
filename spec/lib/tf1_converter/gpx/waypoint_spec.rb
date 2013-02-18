@@ -1,10 +1,29 @@
 require_relative '../../../../lib/tf1_converter/gpx/waypoint'
+require 'nokogiri'
 
 module TF1Converter::Gpx
   describe Waypoint do
     let(:icon_map) { {} }
     let(:node) { double }
     let(:waypoint) { Waypoint.new(node, icon_map) }
+
+
+    let(:waypoint_by_name_fragment) do
+      %Q{
+        <wpt lat="38.9199972" lon="-92.2972443">
+          <name>icon_name_42</name>
+        </wpt>
+      }
+    end
+
+    let(:default_fragment) do
+      %Q{<wpt lat="38.9199972" lon="-92.2972443"></wpt>}
+    end
+
+    def waypoint_from(fragment)
+      node = Nokogiri::XML.fragment(fragment).xpath('wpt').first
+      Waypoint.new(node, icon_map)
+    end
 
     describe '#icon_name' do
       it 'returns a matching name from the map' do
@@ -13,8 +32,14 @@ module TF1Converter::Gpx
         waypoint.icon_name.should == '42.png'
       end
 
+      it 'can find a waypoint by name' do
+        waypoint = waypoint_from(waypoint_by_name_fragment)
+        icon_map['meaningoflife'] = { 'icon' => '42.png', 'name' => 'icon_name_42' }
+        waypoint.icon_name.should == '42.png'
+      end
+
       it 'returns a default value if there is no sym node' do
-        node.stub_chain(:children, :select){ [] }
+        waypoint = waypoint_from(default_fragment)
         waypoint.icon_name.should == 'default.png'
       end
 

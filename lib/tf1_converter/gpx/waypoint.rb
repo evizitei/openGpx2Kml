@@ -7,13 +7,18 @@ module TF1Converter
       end
 
       def name
-        @node.xpath('name').first.text
+        name_node = @node.xpath('name').first
+        name_node.nil? ? '' : name_node.text
       end
 
       def icon_name
         if symbol_name
           map_entry = @icon_map[symbol_name]
           return map_entry['icon'] if map_entry
+        elsif name
+          @icon_map.values.each do |icon_data|
+            return icon_data['icon'] if icon_data['name'] == name
+          end
         end
         'default.png'
       end
