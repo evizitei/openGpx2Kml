@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.7" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2009-10-31T18:17:45Z</time>
+    <bounds maxlat="38.9208257" maxlon="-92.2959630" minlat="38.9190338" minlon="-92.2983971"/>
+  </metadata>
+
+  <wpt lat="38.9199972" lon="-92.2972443">
+    <ele>159.7036133</ele>
+    <name>icon_name_1</name>
+    <cmt>18-OCT-09 2:17:38PM</cmt>
+    <desc>18-OCT-09 2:17:38PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9197762" lon="-92.2969611">
+    <ele>206.8077393</ele>
+    <name>icon_name_3</name>
+    <cmt>18-OCT-09 2:18:07PM</cmt>
+    <desc>18-OCT-09 2:18:07PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9195040" lon="-92.2971813">
+    <ele>228.6776123</ele>
+    <name>icon_name_4</name>
+    <cmt>18-OCT-09 2:18:36PM</cmt>
+    <desc>18-OCT-09 2:18:36PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9191455" lon="-92.2977024">
+    <ele>230.8405762</ele>
+    <name>icon_name_11</name>
+    <cmt>18-OCT-09 2:19:49PM</cmt>
+    <desc>18-OCT-09 2:19:49PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9191831" lon="-92.2973642">
+    <ele>234.6857910</ele>
+    <name>icon_name_18</name>
+    <cmt>18-OCT-09 2:20:33PM</cmt>
+    <desc>18-OCT-09 2:20:33PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9196337" lon="-92.2967348">
+    <ele>237.3294678</ele>
+    <name>icon_name_15</name>
+    <cmt>18-OCT-09 2:21:40PM</cmt>
+    <desc>18-OCT-09 2:21:40PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9193832" lon="-92.2963225">
+    <ele>239.7326660</ele>
+    <name>icon_name_13</name>
+    <cmt>18-OCT-09 2:22:29PM</cmt>
+    <desc>18-OCT-09 2:22:29PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9192829" lon="-92.2959630">
+    <ele>239.9730225</ele>
+    <name>icon_name_14</name>
+    <cmt>18-OCT-09 2:23:14PM</cmt>
+    <desc>18-OCT-09 2:23:14PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9196773" lon="-92.2965171">
+    <ele>238.5311279</ele>
+    <name>icon_name_19</name>
+    <cmt>18-OCT-09 2:24:06PM</cmt>
+    <desc>18-OCT-09 2:24:06PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9202020" lon="-92.2973907">
+    <ele>237.5697021</ele>
+    <name>icon_name_16</name>
+    <cmt>18-OCT-09 2:25:24PM</cmt>
+    <desc>18-OCT-09 2:25:24PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9207150" lon="-92.2972759">
+    <ele>236.1278076</ele>
+    <name>icon_name_21</name>
+    <cmt>18-OCT-09 2:26:20PM</cmt>
+    <desc>18-OCT-09 2:26:20PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9208083" lon="-92.2974574">
+    <ele>234.9260254</ele>
+    <name>icon_name_22</name>
+    <cmt>18-OCT-09 2:26:40PM</cmt>
+    <desc>18-OCT-09 2:26:40PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9205154" lon="-92.2977240">
+    <ele>235.6469727</ele>
+    <name>icon_name_23</name>
+    <cmt>18-OCT-09 2:27:10PM</cmt>
+    <desc>18-OCT-09 2:27:10PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9201116" lon="-92.2983951">
+    <ele>234.6857910</ele>
+    <name>icon_name_2</name>
+    <cmt>18-OCT-09 2:29:16PM</cmt>
+    <desc>18-OCT-09 2:29:16PM</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.9200473" lon="-92.2983507">
+    <ele>235.8873291</ele>
+    <name>icon_name_20</name>
+    <cmt>Weber Home</cmt>
+    <desc>Weber Home</desc>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>18-OCT-09</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>DarkRed</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="38.9192166" lon="-92.2974500">
+        <ele>228.9311523</ele>
+      </trkpt>
+      <trkpt lat="38.9192131" lon="-92.2974480">
+        <ele>228.9311523</ele>
+      </trkpt>
+      <trkpt lat="38.9192131" lon="-92.2974491">
+        <ele>229.8923340</ele>
+      </trkpt>
+      <trkpt lat="38.9192121" lon="-92.2974498">
+        <ele>230.8537598</ele>
+      </trkpt>
+      <trkpt lat="38.9192053" lon="-92.2974481">
+        <ele>231.8149414</ele>
+      </trkpt>
+      <trkpt lat="38.9191897" lon="-92.2974619">
+        <ele>231.8149414</ele>
+      </trkpt>
+      <trkpt lat="38.9191654" lon="-92.2975066">
+        <ele>231.8149414</ele>
+      </trkpt>
+      <trkpt lat="38.9191634" lon="-92.2975411">
+        <ele>230.8537598</ele>
+      </trkpt>
+      <trkpt lat="38.9191661" lon="-92.2975676">
+        <ele>230.8537598</ele>
+      </trkpt>
+      <trkpt lat="38.9191401" lon="-92.2977170">
+        <ele>231.3343506</ele>
+      </trkpt>
+      <trkpt lat="38.9190596" lon="-92.2977401">
+        <ele>230.8537598</ele>
+      </trkpt>
+      <trkpt lat="38.9190338" lon="-92.2977100">
+        <ele>230.8537598</ele>
+      </trkpt>
+      <trkpt lat="38.9190399" lon="-92.2976056">
+        <ele>230.8537598</ele>
+      </trkpt>
+      <trkpt lat="38.9190577" lon="-92.2975292">
+        <ele>231.3343506</ele>
+      </trkpt>
+      <trkpt lat="38.9191198" lon="-92.2974253">
+        <ele>232.2957764</ele>
+      </trkpt>
+      <trkpt lat="38.9192653" lon="-92.2973117">
+        <ele>236.1409912</ele>
+      </trkpt>
+      <trkpt lat="38.9193899" lon="-92.2971953">
+        <ele>236.1409912</ele>
+      </trkpt>
+      <trkpt lat="38.9195301" lon="-92.2970750">
+        <ele>236.6217041</ele>
+      </trkpt>
+      <trkpt lat="38.9196197" lon="-92.2969539">
+        <ele>238.0635986</ele>
+      </trkpt>
+      <trkpt lat="38.9196836" lon="-92.2968409">
+        <ele>237.1022949</ele>
+      </trkpt>
+      <trkpt lat="38.9196751" lon="-92.2968185">
+        <ele>237.5828857</ele>
+      </trkpt>
+      <trkpt lat="38.9195942" lon="-92.2966788">
+        <ele>239.0249023</ele>
+      </trkpt>
+      <trkpt lat="38.9195161" lon="-92.2965691">
+        <ele>238.5443115</ele>
+      </trkpt>
+      <trkpt lat="38.9194482" lon="-92.2964531">
+        <ele>239.5054932</ele>
+      </trkpt>
+      <trkpt lat="38.9193805" lon="-92.2963269">
+        <ele>239.9862061</ele>
+      </trkpt>
+      <trkpt lat="38.9193815" lon="-92.2963000">
+        <ele>239.9862061</ele>
+      </trkpt>
+      <trkpt lat="38.9192872" lon="-92.2961640">
+        <ele>239.0249023</ele>
+      </trkpt>
+      <trkpt lat="38.9192231" lon="-92.2960841">
+        <ele>239.5054932</ele>
+      </trkpt>
+      <trkpt lat="38.9192064" lon="-92.2960546">
+        <ele>239.0249023</ele>
+      </trkpt>
+      <trkpt lat="38.9193209" lon="-92.2959645">
+        <ele>239.5054932</ele>
+      </trkpt>
+      <trkpt lat="38.9193560" lon="-92.2960287">
+        <ele>238.5443115</ele>
+      </trkpt>
+      <trkpt lat="38.9193992" lon="-92.2960931">
+        <ele>239.9862061</ele>
+      </trkpt>
+      <trkpt lat="38.9194369" lon="-92.2961377">
+        <ele>239.5054932</ele>
+      </trkpt>
+      <trkpt lat="38.9195250" lon="-92.2962814">
+        <ele>239.5054932</ele>
+      </trkpt>
+      <trkpt lat="38.9195328" lon="-92.2962871">
+        <ele>239.5054932</ele>
+      </trkpt>
+      <trkpt lat="38.9195311" lon="-92.2963490">
+        <ele>239.5054932</ele>
+      </trkpt>
+      <trkpt lat="38.9195736" lon="-92.2963994">
+        <ele>239.0249023</ele>
+      </trkpt>
+      <trkpt lat="38.9196379" lon="-92.2964627">
+        <ele>239.0249023</ele>
+      </trkpt>
+      <trkpt lat="38.9196596" lon="-92.2964759">
+        <ele>238.5443115</ele>
+      </trkpt>
+      <trkpt lat="38.9197274" lon="-92.2966064">
+        <ele>236.6217041</ele>
+      </trkpt>
+      <trkpt lat="38.9198301" lon="-92.2968050">
+        <ele>237.5828857</ele>
+      </trkpt>
+      <trkpt lat="38.9198532" lon="-92.2968177">
+        <ele>238.0635986</ele>
+      </trkpt>
+      <trkpt lat="38.9199238" lon="-92.2968948">
+        <ele>237.1022949</ele>
+      </trkpt>
+      <trkpt lat="38.9199364" lon="-92.2969240">
+        <ele>237.1022949</ele>
+      </trkpt>
+      <trkpt lat="38.9199673" lon="-92.2969881">
+        <ele>237.1022949</ele>
+      </trkpt>
+      <trkpt lat="38.9200326" lon="-92.2971074">
+        <ele>237.5828857</ele>
+      </trkpt>
+      <trkpt lat="38.9200600" lon="-92.2971658">
+        <ele>237.5828857</ele>
+      </trkpt>
+      <trkpt lat="38.9201327" lon="-92.2972693">
+        <ele>237.5828857</ele>
+      </trkpt>
+      <trkpt lat="38.9202471" lon="-92.2974267">
+        <ele>237.5828857</ele>
+      </trkpt>
+      <trkpt lat="38.9203061" lon="-92.2973874">
+        <ele>237.5828857</ele>
+      </trkpt>
+      <trkpt lat="38.9204382" lon="-92.2973550">
+        <ele>237.1022949</ele>
+      </trkpt>
+      <trkpt lat="38.9206033" lon="-92.2972989">
+        <ele>235.6602783</ele>
+      </trkpt>
+      <trkpt lat="38.9207438" lon="-92.2972725">
+        <ele>236.6217041</ele>
+      </trkpt>
+      <trkpt lat="38.9207743" lon="-92.2972764">
+        <ele>236.1409912</ele>
+      </trkpt>
+      <trkpt lat="38.9208257" lon="-92.2974020">
+        <ele>235.6602783</ele>
+      </trkpt>
+      <trkpt lat="38.9207973" lon="-92.2974725">
+        <ele>234.2183838</ele>
+      </trkpt>
+      <trkpt lat="38.9206118" lon="-92.2976285">
+        <ele>235.1796875</ele>
+      </trkpt>
+      <trkpt lat="38.9204926" lon="-92.2977527">
+        <ele>234.2183838</ele>
+      </trkpt>
+      <trkpt lat="38.9202957" lon="-92.2979666">
+        <ele>235.1796875</ele>
+      </trkpt>
+      <trkpt lat="38.9201607" lon="-92.2981386">
+        <ele>235.1796875</ele>
+      </trkpt>
+      <trkpt lat="38.9200683" lon="-92.2982495">
+        <ele>234.6990967</ele>
+      </trkpt>
+      <trkpt lat="38.9200570" lon="-92.2982619">
+        <ele>234.6990967</ele>
+      </trkpt>
+      <trkpt lat="38.9200564" lon="-92.2983682">
+        <ele>234.2183838</ele>
+      </trkpt>
+      <trkpt lat="38.9200948" lon="-92.2983768">
+        <ele>234.2183838</ele>
+      </trkpt>
+      <trkpt lat="38.9201153" lon="-92.2983971">
+        <ele>235.1796875</ele>
+      </trkpt>
+      <trkpt lat="38.9201652" lon="-92.2983873">
+        <ele>233.7376709</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>ACTIVE LOG 001</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="38.9192166" lon="-92.2974500">
+        <ele>228.9311523</ele>
+        <time>2009-10-18T19:19:18Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>ACTIVE LOG 002</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="38.9192131" lon="-92.2974480">
+        <ele>228.9311523</ele>
+        <time>2009-10-18T19:19:20Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>ACTIVE LOG 003</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="38.9192131" lon="-92.2974491">
+        <ele>229.8923340</ele>
+        <time>2009-10-18T19:19:21Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>ACTIVE LOG 004</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="38.9192121" lon="-92.2974498">
+        <ele>230.8537598</ele>
+        <time>2009-10-18T19:19:22Z</time>
+      </trkpt>
+      <trkpt lat="38.9192053" lon="-92.2974481">
+        <ele>231.8149414</ele>
+        <time>2009-10-18T19:19:28Z</time>
+      </trkpt>
+      <trkpt lat="38.9191897" lon="-92.2974619">
+        <ele>231.8149414</ele>
+        <time>2009-10-18T19:19:31Z</time>
+      </trkpt>
+      <trkpt lat="38.9191654" lon="-92.2975066">
+        <ele>231.8149414</ele>
+        <time>2009-10-18T19:19:35Z</time>
+      </trkpt>
+      <trkpt lat="38.9191634" lon="-92.2975411">
+        <ele>230.8537598</ele>
+        <time>2009-10-18T19:19:37Z</time>
+      </trkpt>
+      <trkpt lat="38.9191661" lon="-92.2975676">
+        <ele>230.8537598</ele>
+        <time>2009-10-18T19:19:39Z</time>
+      </trkpt>
+      <trkpt lat="38.9191401" lon="-92.2977170">
+        <ele>231.3343506</ele>
+        <time>2009-10-18T19:19:50Z</time>
+      </trkpt>
+      <trkpt lat="38.9190596" lon="-92.2977401">
+        <ele>230.8537598</ele>
+        <time>2009-10-18T19:20:05Z</time>
+      </trkpt>
+      <trkpt lat="38.9190338" lon="-92.2977100">
+        <ele>230.8537598</ele>
+        <time>2009-10-18T19:20:08Z</time>
+      </trkpt>
+      <trkpt lat="38.9190399" lon="-92.2976056">
+        <ele>230.8537598</ele>
+        <time>2009-10-18T19:20:14Z</time>
+      </trkpt>
+      <trkpt lat="38.9190577" lon="-92.2975292">
+        <ele>231.3343506</ele>
+        <time>2009-10-18T19:20:18Z</time>
+      </trkpt>
+      <trkpt lat="38.9191198" lon="-92.2974253">
+        <ele>232.2957764</ele>
+        <time>2009-10-18T19:20:27Z</time>
+      </trkpt>
+      <trkpt lat="38.9192653" lon="-92.2973117">
+        <ele>236.1409912</ele>
+        <time>2009-10-18T19:20:39Z</time>
+      </trkpt>
+      <trkpt lat="38.9193899" lon="-92.2971953">
+        <ele>236.1409912</ele>
+        <time>2009-10-18T19:20:53Z</time>
+      </trkpt>
+      <trkpt lat="38.9195301" lon="-92.2970750">
+        <ele>236.6217041</ele>
+        <time>2009-10-18T19:21:05Z</time>
+      </trkpt>
+      <trkpt lat="38.9196197" lon="-92.2969539">
+        <ele>238.0635986</ele>
+        <time>2009-10-18T19:21:18Z</time>
+      </trkpt>
+      <trkpt lat="38.9196836" lon="-92.2968409">
+        <ele>237.1022949</ele>
+        <time>2009-10-18T19:21:32Z</time>
+      </trkpt>
+      <trkpt lat="38.9196751" lon="-92.2968185">
+        <ele>237.5828857</ele>
+        <time>2009-10-18T19:21:34Z</time>
+      </trkpt>
+      <trkpt lat="38.9195942" lon="-92.2966788">
+        <ele>239.0249023</ele>
+        <time>2009-10-18T19:21:48Z</time>
+      </trkpt>
+      <trkpt lat="38.9195161" lon="-92.2965691">
+        <ele>238.5443115</ele>
+        <time>2009-10-18T19:22:03Z</time>
+      </trkpt>
+      <trkpt lat="38.9194482" lon="-92.2964531">
+        <ele>239.5054932</ele>
+        <time>2009-10-18T19:22:14Z</time>
+      </trkpt>
+      <trkpt lat="38.9193805" lon="-92.2963269">
+        <ele>239.9862061</ele>
+        <time>2009-10-18T19:22:26Z</time>
+      </trkpt>
+      <trkpt lat="38.9193815" lon="-92.2963000">
+        <ele>239.9862061</ele>
+        <time>2009-10-18T19:22:39Z</time>
+      </trkpt>
+      <trkpt lat="38.9192872" lon="-92.2961640">
+        <ele>239.0249023</ele>
+        <time>2009-10-18T19:22:54Z</time>
+      </trkpt>
+      <trkpt lat="38.9192231" lon="-92.2960841">
+        <ele>239.5054932</ele>
+        <time>2009-10-18T19:23:02Z</time>
+      </trkpt>
+      <trkpt lat="38.9192064" lon="-92.2960546">
+        <ele>239.0249023</ele>
+        <time>2009-10-18T19:23:04Z</time>
+      </trkpt>
+      <trkpt lat="38.9193209" lon="-92.2959645">
+        <ele>239.5054932</ele>
+        <time>2009-10-18T19:23:17Z</time>
+      </trkpt>
+      <trkpt lat="38.9193560" lon="-92.2960287">
+        <ele>238.5443115</ele>
+        <time>2009-10-18T19:23:22Z</time>
+      </trkpt>
+      <trkpt lat="38.9193992" lon="-92.2960931">
+        <ele>239.9862061</ele>
+        <time>2009-10-18T19:23:27Z</time>
+      </trkpt>
+      <trkpt lat="38.9194369" lon="-92.2961377">
+        <ele>239.5054932</ele>
+        <time>2009-10-18T19:23:31Z</time>
+      </trkpt>
+      <trkpt lat="38.9195250" lon="-92.2962814">
+        <ele>239.5054932</ele>
+        <time>2009-10-18T19:23:44Z</time>
+      </trkpt>
+      <trkpt lat="38.9195328" lon="-92.2962871">
+        <ele>239.5054932</ele>
+        <time>2009-10-18T19:23:45Z</time>
+      </trkpt>
+      <trkpt lat="38.9195311" lon="-92.2963490">
+        <ele>239.5054932</ele>
+        <time>2009-10-18T19:23:49Z</time>
+      </trkpt>
+      <trkpt lat="38.9195736" lon="-92.2963994">
+        <ele>239.0249023</ele>
+        <time>2009-10-18T19:23:54Z</time>
+      </trkpt>
+      <trkpt lat="38.9196379" lon="-92.2964627">
+        <ele>239.0249023</ele>
+        <time>2009-10-18T19:24:00Z</time>
+      </trkpt>
+      <trkpt lat="38.9196596" lon="-92.2964759">
+        <ele>238.5443115</ele>
+        <time>2009-10-18T19:24:02Z</time>
+      </trkpt>
+      <trkpt lat="38.9197274" lon="-92.2966064">
+        <ele>236.6217041</ele>
+        <time>2009-10-18T19:24:16Z</time>
+      </trkpt>
+      <trkpt lat="38.9198301" lon="-92.2968050">
+        <ele>237.5828857</ele>
+        <time>2009-10-18T19:24:31Z</time>
+      </trkpt>
+      <trkpt lat="38.9198532" lon="-92.2968177">
+        <ele>238.0635986</ele>
+        <time>2009-10-18T19:24:34Z</time>
+      </trkpt>
+      <trkpt lat="38.9199238" lon="-92.2968948">
+        <ele>237.1022949</ele>
+        <time>2009-10-18T19:24:42Z</time>
+      </trkpt>
+      <trkpt lat="38.9199364" lon="-92.2969240">
+        <ele>237.1022949</ele>
+        <time>2009-10-18T19:24:44Z</time>
+      </trkpt>
+      <trkpt lat="38.9199673" lon="-92.2969881">
+        <ele>237.1022949</ele>
+        <time>2009-10-18T19:24:49Z</time>
+      </trkpt>
+      <trkpt lat="38.9200326" lon="-92.2971074">
+        <ele>237.5828857</ele>
+        <time>2009-10-18T19:24:59Z</time>
+      </trkpt>
+      <trkpt lat="38.9200600" lon="-92.2971658">
+        <ele>237.5828857</ele>
+        <time>2009-10-18T19:25:04Z</time>
+      </trkpt>
+      <trkpt lat="38.9201327" lon="-92.2972693">
+        <ele>237.5828857</ele>
+        <time>2009-10-18T19:25:13Z</time>
+      </trkpt>
+      <trkpt lat="38.9202471" lon="-92.2974267">
+        <ele>237.5828857</ele>
+        <time>2009-10-18T19:25:30Z</time>
+      </trkpt>
+      <trkpt lat="38.9203061" lon="-92.2973874">
+        <ele>237.5828857</ele>
+        <time>2009-10-18T19:25:39Z</time>
+      </trkpt>
+      <trkpt lat="38.9204382" lon="-92.2973550">
+        <ele>237.1022949</ele>
+        <time>2009-10-18T19:25:51Z</time>
+      </trkpt>
+      <trkpt lat="38.9206033" lon="-92.2972989">
+        <ele>235.6602783</ele>
+        <time>2009-10-18T19:26:08Z</time>
+      </trkpt>
+      <trkpt lat="38.9207438" lon="-92.2972725">
+        <ele>236.6217041</ele>
+        <time>2009-10-18T19:26:22Z</time>
+      </trkpt>
+      <trkpt lat="38.9207743" lon="-92.2972764">
+        <ele>236.1409912</ele>
+        <time>2009-10-18T19:26:25Z</time>
+      </trkpt>
+      <trkpt lat="38.9208257" lon="-92.2974020">
+        <ele>235.6602783</ele>
+        <time>2009-10-18T19:26:36Z</time>
+      </trkpt>
+      <trkpt lat="38.9207973" lon="-92.2974725">
+        <ele>234.2183838</ele>
+        <time>2009-10-18T19:26:41Z</time>
+      </trkpt>
+      <trkpt lat="38.9206118" lon="-92.2976285">
+        <ele>235.1796875</ele>
+        <time>2009-10-18T19:27:00Z</time>
+      </trkpt>
+      <trkpt lat="38.9204926" lon="-92.2977527">
+        <ele>234.2183838</ele>
+        <time>2009-10-18T19:27:13Z</time>
+      </trkpt>
+      <trkpt lat="38.9202957" lon="-92.2979666">
+        <ele>235.1796875</ele>
+        <time>2009-10-18T19:27:35Z</time>
+      </trkpt>
+      <trkpt lat="38.9201607" lon="-92.2981386">
+        <ele>235.1796875</ele>
+        <time>2009-10-18T19:27:51Z</time>
+      </trkpt>
+      <trkpt lat="38.9200683" lon="-92.2982495">
+        <ele>234.6990967</ele>
+        <time>2009-10-18T19:28:06Z</time>
+      </trkpt>
+      <trkpt lat="38.9200570" lon="-92.2982619">
+        <ele>234.6990967</ele>
+        <time>2009-10-18T19:28:15Z</time>
+      </trkpt>
+      <trkpt lat="38.9200564" lon="-92.2983682">
+        <ele>234.2183838</ele>
+        <time>2009-10-18T19:28:39Z</time>
+      </trkpt>
+      <trkpt lat="38.9200948" lon="-92.2983768">
+        <ele>234.2183838</ele>
+        <time>2009-10-18T19:28:58Z</time>
+      </trkpt>
+      <trkpt lat="38.9201153" lon="-92.2983971">
+        <ele>235.1796875</ele>
+        <time>2009-10-18T19:29:19Z</time>
+      </trkpt>
+      <trkpt lat="38.9201652" lon="-92.2983873">
+        <ele>233.7376709</ele>
+        <time>2009-10-18T19:29:42Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

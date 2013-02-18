@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <open>1</open>
+    <Snippet maxLines="1"/>
+    <description><![CDATA[09-01-2008 12:00:00 PM<br/><br/>TF1 Converter Version 1.0<br/>MO Task Force 1<br/>]]></description>
+    <Style id="sn_noicon">
+      <IconStyle>
+        <Icon/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>icon_name_1</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\01.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:17:38PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60922 8133<br>UTM:  15S 560922mE 4308133mN<br>Lat/Long:  38.9199972/-92.2972443<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2972443,38.9199972</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_3</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\03.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:18:07PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60946 8109<br>UTM:  15S 560946mE 4308109mN<br>Lat/Long:  38.9197762/-92.2969611<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2969611,38.9197762</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_4</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\04.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:18:36PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60928 8079<br>UTM:  15S 560928mE 4308079mN<br>Lat/Long:  38.9195040/-92.2971813<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2971813,38.9195040</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_11</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\11.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:19:49PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60883 8039<br>UTM:  15S 560883mE 4308039mN<br>Lat/Long:  38.9191455/-92.2977024<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2977024,38.9191455</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_18</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\18.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:20:33PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60912 8043<br>UTM:  15S 560912mE 4308043mN<br>Lat/Long:  38.9191831/-92.2973642<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2973642,38.9191831</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_15</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\15.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:21:40PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60966 8093<br>UTM:  15S 560966mE 4308093mN<br>Lat/Long:  38.9196337/-92.2967348<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2967348,38.9196337</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_13</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\13.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:22:29PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 61002 8066<br>UTM:  15S 561002mE 4308066mN<br>Lat/Long:  38.9193832/-92.2963225<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2963225,38.9193832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_14</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\14.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:23:14PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 61033 8055<br>UTM:  15S 561033mE 4308055mN<br>Lat/Long:  38.9192829/-92.2959630<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2959630,38.9192829</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_19</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\19.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:24:06PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60985 8098<br>UTM:  15S 560985mE 4308098mN<br>Lat/Long:  38.9196773/-92.2965171<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2965171,38.9196773</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_16</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\16.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:25:24PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60909 8156<br>UTM:  15S 560909mE 4308156mN<br>Lat/Long:  38.9202020/-92.2973907<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2973907,38.9202020</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_21</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\21.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:26:20PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60918 8213<br>UTM:  15S 560918mE 4308213mN<br>Lat/Long:  38.9207150/-92.2972759<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2972759,38.9207150</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_22</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\22.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:26:40PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60902 8223<br>UTM:  15S 560902mE 4308223mN<br>Lat/Long:  38.9208083/-92.2974574<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2974574,38.9208083</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_23</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\23.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:27:10PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60880 8191<br>UTM:  15S 560880mE 4308191mN<br>Lat/Long:  38.9205154/-92.2977240<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2977240,38.9205154</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_2</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\02.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[18-OCT-09 2:29:16PM<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60822 8145<br>UTM:  15S 560822mE 4308145mN<br>Lat/Long:  38.9201116/-92.2983951<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2983951,38.9201116</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>icon_name_20</name>
+        <Snippet maxLines="0"/>
+        <Style id="normalPlacemark">
+          <IconStyle>
+            <Icon>
+              <href>c:\program files\gpx2kml\icon\tf_ge\20.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <description><![CDATA[Weber Home<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60826 8138<br>UTM:  15S 560826mE 4308138mN<br>Lat/Long:  38.9200473/-92.2983507<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <Point>
+          <coordinates>-92.2983507,38.9200473</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Tracks</name>
+      <Style id="18-OCT-09_Style">
+        <LineStyle>
+          <color>f0000080</color>
+          <width>3</width>
+        </LineStyle>
+      </Style>
+      <Placemark id="18-OCT-09">
+        <name>18-OCT-09</name>
+        <description><![CDATA[KML file, track, and waypoint comment.]]></description>
+        <styleUrl>#18-OCT-09_Style</styleUrl>
+        <LineString>
+          <extrude>1</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>-92.2974500,38.9192166,0 -92.2974480,38.9192131,0 -92.2974491,38.9192131,0 -92.2974498,38.9192121,0 -92.2974481,38.9192053,0 -92.2974619,38.9191897,0 -92.2975066,38.9191654,0 -92.2975411,38.9191634,0 -92.2975676,38.9191661,0 -92.2977170,38.9191401,0 -92.2977401,38.9190596,0 -92.2977100,38.9190338,0 -92.2976056,38.9190399,0 -92.2975292,38.9190577,0 -92.2974253,38.9191198,0 -92.2973117,38.9192653,0 -92.2971953,38.9193899,0 -92.2970750,38.9195301,0 -92.2969539,38.9196197,0 -92.2968409,38.9196836,0 -92.2968185,38.9196751,0 -92.2966788,38.9195942,0 -92.2965691,38.9195161,0 -92.2964531,38.9194482,0 -92.2963269,38.9193805,0 -92.2963000,38.9193815,0 -92.2961640,38.9192872,0 -92.2960841,38.9192231,0 -92.2960546,38.9192064,0 -92.2959645,38.9193209,0 -92.2960287,38.9193560,0 -92.2960931,38.9193992,0 -92.2961377,38.9194369,0 -92.2962814,38.9195250,0 -92.2962871,38.9195328,0 -92.2963490,38.9195311,0 -92.2963994,38.9195736,0 -92.2964627,38.9196379,0 -92.2964759,38.9196596,0 -92.2966064,38.9197274,0 -92.2968050,38.9198301,0 -92.2968177,38.9198532,0 -92.2968948,38.9199238,0 -92.2969240,38.9199364,0 -92.2969881,38.9199673,0 -92.2971074,38.9200326,0 -92.2971658,38.9200600,0 -92.2972693,38.9201327,0 -92.2974267,38.9202471,0 -92.2973874,38.9203061,0 -92.2973550,38.9204382,0 -92.2972989,38.9206033,0 -92.2972725,38.9207438,0 -92.2972764,38.9207743,0 -92.2974020,38.9208257,0 -92.2974725,38.9207973,0 -92.2976285,38.9206118,0 -92.2977527,38.9204926,0 -92.2979666,38.9202957,0 -92.2981386,38.9201607,0 -92.2982495,38.9200683,0 -92.2982619,38.9200570,0 -92.2983682,38.9200564,0 -92.2983768,38.9200948,0 -92.2983971,38.9201153,0 -92.2983873,38.9201652,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Style id="ACTIVE LOG 001_Style">
+        <LineStyle>
+          <color>f000ffff</color>
+          <width>3</width>
+        </LineStyle>
+      </Style>
+      <Placemark id="ACTIVE LOG 001">
+        <name>ACTIVE LOG 001</name>
+        <description><![CDATA[KML file, track, and waypoint comment.]]></description>
+        <styleUrl>#ACTIVE LOG 001_Style</styleUrl>
+        <LineString>
+          <extrude>1</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>-92.2974500,38.9192166,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Style id="ACTIVE LOG 002_Style">
+        <LineStyle>
+          <color>f000ffff</color>
+          <width>3</width>
+        </LineStyle>
+      </Style>
+      <Placemark id="ACTIVE LOG 002">
+        <name>ACTIVE LOG 002</name>
+        <description><![CDATA[KML file, track, and waypoint comment.]]></description>
+        <styleUrl>#ACTIVE LOG 002_Style</styleUrl>
+        <LineString>
+          <extrude>1</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>-92.2974480,38.9192131,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Style id="ACTIVE LOG 003_Style">
+        <LineStyle>
+          <color>f000ffff</color>
+          <width>3</width>
+        </LineStyle>
+      </Style>
+      <Placemark id="ACTIVE LOG 003">
+        <name>ACTIVE LOG 003</name>
+        <description><![CDATA[KML file, track, and waypoint comment.]]></description>
+        <styleUrl>#ACTIVE LOG 003_Style</styleUrl>
+        <LineString>
+          <extrude>1</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>-92.2974491,38.9192131,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Style id="ACTIVE LOG 004_Style">
+        <LineStyle>
+          <color>f000ffff</color>
+          <width>3</width>
+        </LineStyle>
+      </Style>
+      <Placemark id="ACTIVE LOG 004">
+        <name>ACTIVE LOG 004</name>
+        <description><![CDATA[KML file, track, and waypoint comment.]]></description>
+        <styleUrl>#ACTIVE LOG 004_Style</styleUrl>
+        <LineString>
+          <extrude>1</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>-92.2974498,38.9192121,0 -92.2974481,38.9192053,0 -92.2974619,38.9191897,0 -92.2975066,38.9191654,0 -92.2975411,38.9191634,0 -92.2975676,38.9191661,0 -92.2977170,38.9191401,0 -92.2977401,38.9190596,0 -92.2977100,38.9190338,0 -92.2976056,38.9190399,0 -92.2975292,38.9190577,0 -92.2974253,38.9191198,0 -92.2973117,38.9192653,0 -92.2971953,38.9193899,0 -92.2970750,38.9195301,0 -92.2969539,38.9196197,0 -92.2968409,38.9196836,0 -92.2968185,38.9196751,0 -92.2966788,38.9195942,0 -92.2965691,38.9195161,0 -92.2964531,38.9194482,0 -92.2963269,38.9193805,0 -92.2963000,38.9193815,0 -92.2961640,38.9192872,0 -92.2960841,38.9192231,0 -92.2960546,38.9192064,0 -92.2959645,38.9193209,0 -92.2960287,38.9193560,0 -92.2960931,38.9193992,0 -92.2961377,38.9194369,0 -92.2962814,38.9195250,0 -92.2962871,38.9195328,0 -92.2963490,38.9195311,0 -92.2963994,38.9195736,0 -92.2964627,38.9196379,0 -92.2964759,38.9196596,0 -92.2966064,38.9197274,0 -92.2968050,38.9198301,0 -92.2968177,38.9198532,0 -92.2968948,38.9199238,0 -92.2969240,38.9199364,0 -92.2969881,38.9199673,0 -92.2971074,38.9200326,0 -92.2971658,38.9200600,0 -92.2972693,38.9201327,0 -92.2974267,38.9202471,0 -92.2973874,38.9203061,0 -92.2973550,38.9204382,0 -92.2972989,38.9206033,0 -92.2972725,38.9207438,0 -92.2972764,38.9207743,0 -92.2974020,38.9208257,0 -92.2974725,38.9207973,0 -92.2976285,38.9206118,0 -92.2977527,38.9204926,0 -92.2979666,38.9202957,0 -92.2981386,38.9201607,0 -92.2982495,38.9200683,0 -92.2982619,38.9200570,0 -92.2983682,38.9200564,0 -92.2983768,38.9200948,0 -92.2983971,38.9201153,0 -92.2983873,38.9201652,0</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
