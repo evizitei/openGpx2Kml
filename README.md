@@ -12,6 +12,6 @@
     gem install tf1_converter
 
 
- 4) add a config file to a convenient location (see example/config.yml)
+ 4) add a config file to a convenient location (see example/config.csv)
 
  5) edit the config file in WordPad or similar, make sure the paths match where your files are.
