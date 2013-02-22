@@ -2,3 +2,8 @@
 *.DS_Store
 pkg/*
 output/*
+output.kml
+spec/fixtures/*.csv
+spec/fixtures/test.kml
+spec/fixtures/waypoint-by-name.kml
+spec/fixtures/ftwood2.kml
