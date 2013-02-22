@@ -275,7 +275,7 @@
       </Placemark>
       <Style id="ACTIVE LOG 002_Style">
         <LineStyle>
-          <color>f000ffff</color>
+          <color>f0ff0000</color>
           <width>3</width>
         </LineStyle>
       </Style>
@@ -292,7 +292,7 @@
       </Placemark>
       <Style id="ACTIVE LOG 003_Style">
         <LineStyle>
-          <color>f000ffff</color>
+          <color>f01400ff</color>
           <width>3</width>
         </LineStyle>
       </Style>
@@ -309,7 +309,7 @@
       </Placemark>
       <Style id="ACTIVE LOG 004_Style">
         <LineStyle>
-          <color>f000ffff</color>
+          <color>f014b4ff</color>
           <width>3</width>
         </LineStyle>
       </Style>

@@ -67,7 +67,7 @@ module TF1Converter
     def write_track_xml(track, xml)
       xml.Style(id: "#{track.name}_Style") do
         xml.LineStyle do
-          xml.color track.display_color
+          xml.color next_color
           xml.width 3
         end
       end
@@ -97,6 +97,17 @@ module TF1Converter
       desc << "<br>" << "UTM:  #{waypoint.utm}"
       desc << "<br>" << "Lat/Long:  #{waypoint.lat}/#{waypoint.long}"
       desc << "<br>" << "#{Config.start_path} - #{Config.end_path}"
+    end
+
+    def next_color
+      @colors ||= Config.colors.values
+      @color_index ||= 0
+      return_color = @colors[@color_index]
+      @color_index += 1
+      if @color_index >= @colors.length
+        @color_index = 0
+      end
+      return_color
     end
 
   end

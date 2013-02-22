@@ -30,4 +30,10 @@ tf1_converter:
            Residence: { icon: default.png, meaning: Default, name: icon_name_24 } }
   colors: { DarkRed: f0000080,
             Yellow: f000ffff,
-            Blue: f0ff0000 }
+            Blue: f0ff0000,
+            Red: f01400ff,
+            Orange: f014b4ff,
+            Green: f000b414,
+            Purple: f0ff7878,
+            Pink: f0ff78f0 }
+
