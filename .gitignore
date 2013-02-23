@@ -3,7 +3,9 @@
 pkg/*
 output/*
 output.kml
+example/localconfig.csv
 spec/fixtures/*.csv
 spec/fixtures/test.kml
 spec/fixtures/waypoint-by-name.kml
 spec/fixtures/ftwood2.kml
+spec/fixtures/*.kmz

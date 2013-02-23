@@ -48,7 +48,7 @@ module TF1Converter
         xml.Style(id: 'normalPlacemark') do
           xml.IconStyle do
             xml.Icon do
-              xml.href("#{Config.icon_path}#{waypoint.icon_name}")
+              xml.href("files/#{waypoint.icon_name}")
             end
           end
         end

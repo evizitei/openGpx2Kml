@@ -3,7 +3,7 @@
   <Document>
     <open>1</open>
     <Snippet maxLines="1"/>
-    <description><![CDATA[02-15-2013 03:00:24 PM<br/><br/>TF1 Converter Version 1.0<br/>MO Task Force 1<br/>]]></description>
+    <description><![CDATA[02-23-2013 12:42:42 PM<br/><br/>TF1 Converter Version 1.0<br/>MO Task Force 1<br/>]]></description>
     <Style id="sn_noicon">
       <IconStyle>
         <Icon/>
@@ -17,11 +17,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\01.png</href>
+              <href>files/01.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:17:38PM<br>Search Start<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60922 8133<br>UTM:  15S 560922mE 4308133mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:17:38PM<br>Search Start<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60922 8133<br>UTM:  15S 560922mE 4308133mN<br>Lat/Long:  38.9199972/-92.2972443<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2972443,38.9199972</coordinates>
         </Point>
@@ -32,11 +32,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\03.png</href>
+              <href>files/03.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:18:07PM<br>Victim Detected<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60946 8109<br>UTM:  15S 560946mE 4308109mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:18:07PM<br>Victim Detected<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60946 8109<br>UTM:  15S 560946mE 4308109mN<br>Lat/Long:  38.9197762/-92.2969611<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2969611,38.9197762</coordinates>
         </Point>
@@ -47,11 +47,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\04.png</href>
+              <href>files/04.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:18:36PM<br>Victim Confirmed<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60928 8079<br>UTM:  15S 560928mE 4308079mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:18:36PM<br>Victim Confirmed<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60928 8079<br>UTM:  15S 560928mE 4308079mN<br>Lat/Long:  38.9195040/-92.2971813<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2971813,38.9195040</coordinates>
         </Point>
@@ -62,11 +62,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\11.png</href>
+              <href>files/11.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:19:49PM<br>Collection Point<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60883 8039<br>UTM:  15S 560883mE 4308039mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:19:49PM<br>Collection Point<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60883 8039<br>UTM:  15S 560883mE 4308039mN<br>Lat/Long:  38.9191455/-92.2977024<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2977024,38.9191455</coordinates>
         </Point>
@@ -77,11 +77,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\18.png</href>
+              <href>files/18.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:20:33PM<br>Structure Damage / Safe<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60912 8043<br>UTM:  15S 560912mE 4308043mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:20:33PM<br>Structure Damage / Safe<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60912 8043<br>UTM:  15S 560912mE 4308043mN<br>Lat/Long:  38.9191831/-92.2973642<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2973642,38.9191831</coordinates>
         </Point>
@@ -92,11 +92,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\15.png</href>
+              <href>files/15.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:21:40PM<br>Criminal Activity<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60966 8093<br>UTM:  15S 560966mE 4308093mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:21:40PM<br>Criminal Activity<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60966 8093<br>UTM:  15S 560966mE 4308093mN<br>Lat/Long:  38.9196337/-92.2967348<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2967348,38.9196337</coordinates>
         </Point>
@@ -107,11 +107,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\13.png</href>
+              <href>files/13.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:22:29PM<br>Command Post<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 61002 8066<br>UTM:  15S 561002mE 4308066mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:22:29PM<br>Command Post<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 61002 8066<br>UTM:  15S 561002mE 4308066mN<br>Lat/Long:  38.9193832/-92.2963225<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2963225,38.9193832</coordinates>
         </Point>
@@ -122,11 +122,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\14.png</href>
+              <href>files/14.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:23:14PM<br>Staging Area<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 61033 8055<br>UTM:  15S 561033mE 4308055mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:23:14PM<br>Staging Area<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 61033 8055<br>UTM:  15S 561033mE 4308055mN<br>Lat/Long:  38.9192829/-92.2959630<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2959630,38.9192829</coordinates>
         </Point>
@@ -137,11 +137,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\19.png</href>
+              <href>files/19.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:24:06PM<br>Meaning 19<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60985 8098<br>UTM:  15S 560985mE 4308098mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:24:06PM<br>Meaning 19<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60985 8098<br>UTM:  15S 560985mE 4308098mN<br>Lat/Long:  38.9196773/-92.2965171<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2965171,38.9196773</coordinates>
         </Point>
@@ -152,11 +152,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\16.png</href>
+              <href>files/16.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:25:24PM<br>Meaning 16<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60909 8156<br>UTM:  15S 560909mE 4308156mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:25:24PM<br>Meaning 16<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60909 8156<br>UTM:  15S 560909mE 4308156mN<br>Lat/Long:  38.9202020/-92.2973907<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2973907,38.9202020</coordinates>
         </Point>
@@ -167,11 +167,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\21.png</href>
+              <href>files/21.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:26:20PM<br>Extra 21<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60918 8213<br>UTM:  15S 560918mE 4308213mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:26:20PM<br>Extra 21<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60918 8213<br>UTM:  15S 560918mE 4308213mN<br>Lat/Long:  38.9207150/-92.2972759<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2972759,38.9207150</coordinates>
         </Point>
@@ -182,11 +182,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\22.png</href>
+              <href>files/22.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:26:40PM<br>Extra 22<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60902 8223<br>UTM:  15S 560902mE 4308223mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:26:40PM<br>Extra 22<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60902 8223<br>UTM:  15S 560902mE 4308223mN<br>Lat/Long:  38.9208083/-92.2974574<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2974574,38.9208083</coordinates>
         </Point>
@@ -197,11 +197,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\23.png</href>
+              <href>files/23.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:27:10PM<br>Extra 23<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60880 8191<br>UTM:  15S 560880mE 4308191mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:27:10PM<br>Extra 23<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60880 8191<br>UTM:  15S 560880mE 4308191mN<br>Lat/Long:  38.9205154/-92.2977240<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2977240,38.9205154</coordinates>
         </Point>
@@ -212,11 +212,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\02.png</href>
+              <href>files/02.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[18-OCT-09 2:29:16PM<br>Search Stop<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60822 8145<br>UTM:  15S 560822mE 4308145mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[18-OCT-09 2:29:16PM<br>Search Stop<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60822 8145<br>UTM:  15S 560822mE 4308145mN<br>Lat/Long:  38.9201116/-92.2983951<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2983951,38.9201116</coordinates>
         </Point>
@@ -227,11 +227,11 @@
         <Style id="normalPlacemark">
           <IconStyle>
             <Icon>
-              <href>c:\program files\gpx2kml\icon\tf_ge\default.png</href>
+              <href>files/default.png</href>
             </Icon>
           </IconStyle>
         </Style>
-        <description><![CDATA[Weber Home<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60826 8138<br>UTM:  15S 560826mE 4308138mN<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
+        <description><![CDATA[Weber Home<br>Default<br>KML file, track, and waypoint comment.<br>USNG:  15S WD 60826 8138<br>UTM:  15S 560826mE 4308138mN<br>Lat/Long:  38.9200473/-92.2983507<br>c:\program files\gpx2kml\test - c:\program files\gpx2kml\test]]></description>
         <Point>
           <coordinates>-92.2983507,38.9200473</coordinates>
         </Point>
@@ -275,7 +275,7 @@
       </Placemark>
       <Style id="ACTIVE LOG 002_Style">
         <LineStyle>
-          <color>f000ffff</color>
+          <color>f0ff0000</color>
           <width>3</width>
         </LineStyle>
       </Style>
@@ -292,7 +292,7 @@
       </Placemark>
       <Style id="ACTIVE LOG 003_Style">
         <LineStyle>
-          <color>f000ffff</color>
+          <color>f01400ff</color>
           <width>3</width>
         </LineStyle>
       </Style>
@@ -309,7 +309,7 @@
       </Placemark>
       <Style id="ACTIVE LOG 004_Style">
         <LineStyle>
-          <color>f000ffff</color>
+          <color>f014b4ff</color>
           <width>3</width>
         </LineStyle>
       </Style>

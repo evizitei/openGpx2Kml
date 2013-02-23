@@ -26,4 +26,5 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'nokogiri', '1.5.6'
   gem.add_dependency 'builder', '3.1.4'
   gem.add_dependency 'geo_swap', '0.2.1'
+  gem.add_dependency 'rubyzip', '0.9.9'
 end
