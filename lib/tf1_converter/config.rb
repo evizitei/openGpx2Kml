@@ -13,10 +13,6 @@ module TF1Converter
           @output = row[0]
         elsif last_key == 'ICON_PATH'
           @icon_path = row[0]
-        elsif last_key == 'START_PATH'
-          @start_path = row[0]
-        elsif last_key == 'END_PATH'
-          @end_path = row[0]
         elsif last_key == 'ICONS'
           @icons = {}
           current_control = 'ICONS'
@@ -47,7 +43,7 @@ module TF1Converter
       end
     end
 
-    %w(icon_path start_path end_path icons colors input output).each do |name|
+    %w(icon_path icons colors input output).each do |name|
       define_singleton_method(name.to_sym) do
         instance_variable_get("@#{name}")
       end

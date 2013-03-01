@@ -10,12 +10,6 @@ The full path of the directory where your icons are stored
 ICON_PATH
 /Users/ethanvizitei/icons
 
-START_PATH
-c:\program files\gpx2kml\test
-
-END_PATH
-c:\program files\gpx2kml\test
-
 Table of Icons (symbol/filename/meaning/custom_name)
 ICONS
 Custom 0,01.png,Search Start,icon_name_1
