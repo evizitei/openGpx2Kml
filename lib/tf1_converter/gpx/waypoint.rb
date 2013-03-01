@@ -43,6 +43,10 @@ module TF1Converter
         @node.attribute('lon').value
       end
 
+      def elevation
+        @node.children.select{ |child| child.name == 'ele' }.first.text
+      end
+
       def usng
         u = utm_object
         GeoSwap.utm_to_usng(u.easting, u.northing, u.zone.number, u.zone.letter)

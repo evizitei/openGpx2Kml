@@ -9,9 +9,9 @@ module TF1Converter
 
     def to_csv!
       CSV.open(@path, 'wb') do |csv|
-        csv << ['filename', 'name', 'meaning', 'time', 'lat', 'long', 'usng']
+        csv << ['filename', 'name', 'meaning', 'time', 'lat', 'long', 'usng', 'elevation']
         @waypoints.each do |wp|
-          csv << [@path.split('.').first, wp.name, wp.icon_meaning, wp.timestamp, wp.lat, wp.long, wp.usng]
+          csv << [@path.split('.').first, wp.name, wp.icon_meaning, wp.timestamp, wp.lat, wp.long, wp.usng, wp.elevation]
         end
       end
     end
