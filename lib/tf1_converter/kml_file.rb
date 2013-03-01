@@ -94,7 +94,7 @@ module TF1Converter
       desc << '<br>' << waypoint.icon_meaning
       desc << '<br>' << "KML file, track, and waypoint comment."
       desc << "<br>" << "USNG:  #{waypoint.usng}"
-      desc << "<br>" << "Lat/Long:  #{waypoint.lat}/#{waypoint.long}"
+      desc << "<br>" << "Lat,Long:  #{waypoint.lat},#{waypoint.long}"
     end
 
     def next_color
