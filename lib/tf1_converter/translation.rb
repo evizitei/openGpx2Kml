@@ -12,6 +12,7 @@ module TF1Converter
     end
 
     def initialize(gpx_file)
+      @filename = File.basename(gpx_file.path).split('.').first
       parsed_gpx = Nokogiri::XML(gpx_file)
       parsed_gpx.remove_namespaces!
       @gpx = GpxFile.new(parsed_gpx)
@@ -22,7 +23,7 @@ module TF1Converter
       csv_path = raw_file_name + '.csv'
       CsvFile.new(@gpx.waypoints, csv_path).to_csv!
 
-      kml = KmlFile.new(@gpx.waypoints, @gpx.tracks).to_xml
+      kml = KmlFile.new(@gpx.waypoints, @gpx.tracks, @filename).to_xml
       output_file.puts kml
       output_file.close
 

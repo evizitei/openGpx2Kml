@@ -1,8 +1,9 @@
 module TF1Converter
   class KmlFile
-    def initialize(waypoints, tracks)
+    def initialize(waypoints, tracks, filename)
       @waypoints = waypoints
       @tracks = tracks
+      @filename = filename
     end
 
     def to_xml
@@ -75,7 +76,7 @@ module TF1Converter
       xml.Placemark(id: track.name) do
         xml.name track.name
         xml.description do
-          xml.cdata "KML file, track, and waypoint comment."
+          xml.cdata @filename
         end
         xml.styleUrl "##{track.name}_Style"
         xml.LineString do
@@ -92,7 +93,7 @@ module TF1Converter
       desc = ""
       desc << waypoint.timestamp
       desc << '<br>' << waypoint.icon_meaning
-      desc << '<br>' << "KML file, track, and waypoint comment."
+      desc << '<br>' << "Filename: #{@filename}"
       desc << "<br>" << "USNG:  #{waypoint.usng}"
       desc << "<br>" << "Lat,Long:  #{waypoint.lat},#{waypoint.long}"
       desc << "<br>" << "Elevation:  #{waypoint.elevation}"
