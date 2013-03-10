@@ -6,6 +6,7 @@ module TF1Converter
     before do
       execution_time = Time.local(2008, 9, 1, 12, 0, 0)
       Timecop.freeze(execution_time)
+      Kml::TrackColor.uncache!
     end
 
     after do

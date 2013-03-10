@@ -6,6 +6,8 @@ module TF1Converter
     def self.load(path)
       last_key = nil
       current_control = nil
+      @constant_color_switch = false
+
       CSV.read(path).each do |row|
         if last_key == 'INPUT'
           @input = row[0]
@@ -19,6 +21,10 @@ module TF1Converter
         elsif last_key == 'COLORS'
           @colors = {}
           current_control = 'COLORS'
+        elsif last_key == 'USE_CONSTANT_COLOR'
+          @use_constant_color = row[0].strip.downcase == 'true'
+        elsif last_key == 'CONSTANT_COLOR'
+          @constant_color = row[0]
         end
 
         if current_control == 'ICONS'
@@ -43,11 +49,15 @@ module TF1Converter
       end
     end
 
-    %w(icon_path icons colors input output).each do |name|
+    %w(icon_path icons colors input output use_constant_color).each do |name|
       define_singleton_method(name.to_sym) do
         instance_variable_get("@#{name}")
       end
     end
 
+  end
+
+  def self.constant_color
+    colors[@constant_color]
   end
 end

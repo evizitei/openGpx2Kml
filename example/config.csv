@@ -47,3 +47,11 @@ Orange,f014b4ff
 Green,f000b414
 Purple,f0ff7878
 Pink,f0ff78f0
+
+Switch for Using Constant Color ('true' for one color, 'false' for iteration)
+USE_CONSTANT_COLOR
+false
+
+The color to use if the constant color switch is flipped (must be a key from the colors table)
+CONSTANT_COLOR
+Blue
