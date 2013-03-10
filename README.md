@@ -9,7 +9,7 @@
 
  3) install the converter by running this at the command prompt:
 
-    gem install tf1_converter
+    gem install open_gpx_2_kml
 
 
  4) add a config file to a convenient location (see example/config.csv)
