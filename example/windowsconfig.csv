@@ -1,10 +1,10 @@
 The path of the directory where you are putting gpx files
 INPUT
-c:\Documents and Settings\FEMA\TF1Converter\Input
+c:\Documents and Settings\FEMA\OpenGpx2Kml\Input
 
 The path of the directory where you are wanting the KML files
 OUTPUT
-c:\Documents and Settings\FEMA\TF1Converter\Output
+c:\Documents and Settings\FEMA\OpenGpx2Kml\Output
 
 The full path of the directory where your icons are stored
 ICON_PATH

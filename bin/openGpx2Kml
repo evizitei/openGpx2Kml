@@ -17,5 +17,5 @@ Dir.foreach(input_path) do |file|
 end
 
 Dir.foreach(output_path) do |file|
-  File.delete(file) if file =~ /\.kml$/
+  File.delete(File.join(output_path, file)) if file =~ /\.kml$/
 end
