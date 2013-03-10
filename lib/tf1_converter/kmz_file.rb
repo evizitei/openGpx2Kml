@@ -12,11 +12,16 @@ module TF1Converter
         zipfile.mkdir("files")
         Dir.foreach(TF1Converter::Config.icon_path) do |item|
           if item != '.' && item != '..'
-            zipfile.add("files/#{item}", "#{TF1Converter::Config.icon_path}/#{item}")
+            zipfile.add("files/#{item}", full_filepath(item))
           end
         end
       end
       FileUtils.mv(zip_path, "#{filename}.kmz")
+    end
+
+    def self.full_filepath(filename)
+      path = "#{TF1Converter::Config.icon_path}/#{filename}"
+      path.gsub('//', '/')
     end
   end
 end
