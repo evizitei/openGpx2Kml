@@ -1,3 +1,5 @@
+require_relative 'kml/track_node'
+
 module TF1Converter
   class KmlFile
     def initialize(waypoints, tracks, filename)
@@ -22,7 +24,7 @@ module TF1Converter
             xml.Folder do
               xml.name "Tracks"
               @tracks.each do |track|
-                write_track_xml(track, xml)
+                Kml::TrackNode.new(track, @filename).write_to(xml)
               end
             end
 
@@ -64,31 +66,6 @@ module TF1Converter
       end
     end
 
-
-    def write_track_xml(track, xml)
-      xml.Style(id: "#{track.name}_Style") do
-        xml.LineStyle do
-          xml.color next_color
-          xml.width 3
-        end
-      end
-
-      xml.Placemark(id: track.name) do
-        xml.name track.name
-        xml.description do
-          xml.cdata @filename
-        end
-        xml.styleUrl "##{track.name}_Style"
-        xml.LineString do
-          xml.extrude 1
-          xml.tessellate 1
-          xml.altitudeMode 'clampedToGround'
-          xml.coordinates track.coordinate_string
-        end
-      end
-    end
-
-
     def description_for(waypoint)
       desc = ""
       desc << waypoint.timestamp
@@ -97,17 +74,6 @@ module TF1Converter
       desc << "<br>" << "USNG:  #{waypoint.usng}"
       desc << "<br>" << "Lat,Long:  #{waypoint.lat},#{waypoint.long}"
       desc << "<br>" << "Elevation:  #{waypoint.elevation}"
-    end
-
-    def next_color
-      @colors ||= Config.colors.values
-      @color_index ||= 0
-      return_color = @colors[@color_index]
-      @color_index += 1
-      if @color_index >= @colors.length
-        @color_index = 0
-      end
-      return_color
     end
 
   end
