@@ -4,12 +4,12 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'tf1_converter/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "tf1_converter"
+  gem.name          = "open_gpx_2_kml"
   gem.version       = TF1Converter::VERSION
   gem.authors       = ["Ethan Vizitei"]
   gem.email         = ["ethan.vizitei@gmail.com"]
-  gem.description   = %q{A GPX to KML converter for Missouri Task Force 1}
-  gem.summary       = %q{A GPX to KML converter for Missouri Task Force 1}
+  gem.description   = %q{A GPX to KML converter for FEMA US&R}
+  gem.summary       = %q{A GPX to KML converter for FEMA US&R}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
