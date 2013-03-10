@@ -15,3 +15,7 @@ Dir.foreach(input_path) do |file|
     TF1Converter::Translation.from(input).into(output)
   end
 end
+
+Dir.foreach(output_path) do |file|
+  File.delete(file) if file =~ /\.kml$/
+end
