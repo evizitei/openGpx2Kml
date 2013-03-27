@@ -8,7 +8,7 @@ input_path = TF1Converter::Config.input
 output_path = TF1Converter::Config.output
 
 Dir.foreach(input_path) do |file|
-  unless ['.', '..'].include? file
+  if TF1Converter::Translation.can_translate?(file)
     input = File.open("#{input_path}/#{file}", 'r')
     outfile = file.gsub(/\.gpx$/, '.kml')
     output = File.open("#{output_path}/#{outfile}", 'w')

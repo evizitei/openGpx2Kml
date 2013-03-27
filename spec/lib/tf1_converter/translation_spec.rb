@@ -45,4 +45,19 @@ module TF1Converter
       result.read.should_not =~ /default\.png/
     end
   end
+
+  describe 'file type checking' do
+    it 'likes files with gpx endings' do
+      TF1Converter::Translation.can_translate?("big-file.gpx").should be_true
+    end
+
+    it 'wont take files without gpx endings' do
+      TF1Converter::Translation.can_translate?("big-file.kml").should be_false
+    end
+
+    it 'wont parse placeholder files' do
+      TF1Converter::Translation.can_translate?(".").should be_false
+      TF1Converter::Translation.can_translate?("..").should be_false
+    end
+  end
 end

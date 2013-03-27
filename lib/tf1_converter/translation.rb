@@ -11,6 +11,10 @@ module TF1Converter
       new(file)
     end
 
+    def self.can_translate?(filename)
+      filename =~ /\.gpx$/
+    end
+
     def initialize(gpx_file)
       @filename = File.basename(gpx_file.path).split('.').first
       parsed_gpx = Nokogiri::XML(gpx_file)
