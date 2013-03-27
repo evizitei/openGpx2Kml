@@ -17,7 +17,7 @@ module TF1Converter
           return map_entry['icon'] if map_entry
         elsif name
           @icon_map.values.each do |icon_data|
-            return icon_data['icon'] if icon_data['name'] == name
+            return icon_data['icon'] if icon_data['name'].upcase == name.slice(0,3).upcase
           end
         end
         'default.png'

@@ -11,7 +11,7 @@ module TF1Converter::Gpx
     let(:waypoint_by_name_fragment) do
       %Q{
         <wpt lat="38.9199972" lon="-92.2972443">
-          <name>icon_name_42</name>
+          <name>C05icon_name_42</name>
         </wpt>
       }
     end
@@ -34,7 +34,7 @@ module TF1Converter::Gpx
 
       it 'can find a waypoint by name' do
         waypoint = waypoint_from(waypoint_by_name_fragment)
-        icon_map['meaningoflife'] = { 'icon' => '42.png', 'name' => 'icon_name_42' }
+        icon_map['meaningoflife'] = { 'icon' => '42.png', 'name' => 'C05' }
         waypoint.icon_name.should == '42.png'
       end
 

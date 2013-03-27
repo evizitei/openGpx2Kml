@@ -11,7 +11,7 @@
 
   <wpt lat="38.9199972" lon="-92.2972443">
     <ele>159.7036133</ele>
-    <name>icon_name_1</name>
+    <name>C01_some_icon_name</name>
     <cmt>18-OCT-09 2:17:38PM</cmt>
     <desc>18-OCT-09 2:17:38PM</desc>
     <extensions>
@@ -23,7 +23,7 @@
 
   <wpt lat="38.9197762" lon="-92.2969611">
     <ele>206.8077393</ele>
-    <name>icon_name_3</name>
+    <name>C03_some_icon_name</name>
     <cmt>18-OCT-09 2:18:07PM</cmt>
     <desc>18-OCT-09 2:18:07PM</desc>
     <extensions>
@@ -35,7 +35,7 @@
 
   <wpt lat="38.9195040" lon="-92.2971813">
     <ele>228.6776123</ele>
-    <name>icon_name_4</name>
+    <name>C04_some_icon_name</name>
     <cmt>18-OCT-09 2:18:36PM</cmt>
     <desc>18-OCT-09 2:18:36PM</desc>
     <extensions>
@@ -47,7 +47,7 @@
 
   <wpt lat="38.9191455" lon="-92.2977024">
     <ele>230.8405762</ele>
-    <name>icon_name_11</name>
+    <name>C11_some_icon_name</name>
     <cmt>18-OCT-09 2:19:49PM</cmt>
     <desc>18-OCT-09 2:19:49PM</desc>
     <extensions>
@@ -59,7 +59,7 @@
 
   <wpt lat="38.9191831" lon="-92.2973642">
     <ele>234.6857910</ele>
-    <name>icon_name_18</name>
+    <name>C18_some_icon_name</name>
     <cmt>18-OCT-09 2:20:33PM</cmt>
     <desc>18-OCT-09 2:20:33PM</desc>
     <extensions>
@@ -71,7 +71,7 @@
 
   <wpt lat="38.9196337" lon="-92.2967348">
     <ele>237.3294678</ele>
-    <name>icon_name_15</name>
+    <name>C15_icon_name</name>
     <cmt>18-OCT-09 2:21:40PM</cmt>
     <desc>18-OCT-09 2:21:40PM</desc>
     <extensions>
@@ -83,7 +83,7 @@
 
   <wpt lat="38.9193832" lon="-92.2963225">
     <ele>239.7326660</ele>
-    <name>icon_name_13</name>
+    <name>C13_icon_name</name>
     <cmt>18-OCT-09 2:22:29PM</cmt>
     <desc>18-OCT-09 2:22:29PM</desc>
     <extensions>
@@ -95,7 +95,7 @@
 
   <wpt lat="38.9192829" lon="-92.2959630">
     <ele>239.9730225</ele>
-    <name>icon_name_14</name>
+    <name>C14_icon_name</name>
     <cmt>18-OCT-09 2:23:14PM</cmt>
     <desc>18-OCT-09 2:23:14PM</desc>
     <extensions>
@@ -107,7 +107,7 @@
 
   <wpt lat="38.9196773" lon="-92.2965171">
     <ele>238.5311279</ele>
-    <name>icon_name_19</name>
+    <name>C19_icon_name</name>
     <cmt>18-OCT-09 2:24:06PM</cmt>
     <desc>18-OCT-09 2:24:06PM</desc>
     <extensions>
@@ -119,7 +119,7 @@
 
   <wpt lat="38.9202020" lon="-92.2973907">
     <ele>237.5697021</ele>
-    <name>icon_name_16</name>
+    <name>C16_icon_name</name>
     <cmt>18-OCT-09 2:25:24PM</cmt>
     <desc>18-OCT-09 2:25:24PM</desc>
     <extensions>
@@ -131,7 +131,7 @@
 
   <wpt lat="38.9207150" lon="-92.2972759">
     <ele>236.1278076</ele>
-    <name>icon_name_21</name>
+    <name>C21_icon_name</name>
     <cmt>18-OCT-09 2:26:20PM</cmt>
     <desc>18-OCT-09 2:26:20PM</desc>
     <extensions>
@@ -143,7 +143,7 @@
 
   <wpt lat="38.9208083" lon="-92.2974574">
     <ele>234.9260254</ele>
-    <name>icon_name_22</name>
+    <name>C22_icon_name</name>
     <cmt>18-OCT-09 2:26:40PM</cmt>
     <desc>18-OCT-09 2:26:40PM</desc>
     <extensions>
@@ -155,7 +155,7 @@
 
   <wpt lat="38.9205154" lon="-92.2977240">
     <ele>235.6469727</ele>
-    <name>icon_name_23</name>
+    <name>C23_icon_name</name>
     <cmt>18-OCT-09 2:27:10PM</cmt>
     <desc>18-OCT-09 2:27:10PM</desc>
     <extensions>
@@ -167,7 +167,7 @@
 
   <wpt lat="38.9201116" lon="-92.2983951">
     <ele>234.6857910</ele>
-    <name>icon_name_2</name>
+    <name>C02_icon_name</name>
     <cmt>18-OCT-09 2:29:16PM</cmt>
     <desc>18-OCT-09 2:29:16PM</desc>
     <extensions>
@@ -179,7 +179,7 @@
 
   <wpt lat="38.9200473" lon="-92.2983507">
     <ele>235.8873291</ele>
-    <name>icon_name_20</name>
+    <name>C20_icon_name</name>
     <cmt>Weber Home</cmt>
     <desc>Weber Home</desc>
     <extensions>
