@@ -45,7 +45,7 @@ module TF1Converter
           end
         end
 
-        last_key = row[0]
+        last_key = row[0] ? row[0].upcase : nil
       end
     end
 
