@@ -39,7 +39,7 @@ module TF1Converter
       xml.open 1
       xml.Snippet(maxLines: '1')
       xml.description do
-        xml.cdata "#{Time.now.strftime('%m-%d-%Y %I:%M:%S %p')}<br/><br/>TF1 Converter Version 1.0<br/>MO Task Force 1<br/>"
+        xml.cdata "#{Time.now.strftime('%m-%d-%Y %I:%M:%S %p')}<br/><br/>OpenGpx2Kml Converter Version 1.0<br/>"
       end
       xml.Style(id: "sn_noicon") { xml.IconStyle { xml.Icon } }
     end
