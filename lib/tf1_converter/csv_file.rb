@@ -15,5 +15,9 @@ module TF1Converter
         end
       end
     end
+
+    def self.translate_filename(file_path)
+      file_path.split('.')[0...-1].join('.') + '.csv'
+    end
   end
 end

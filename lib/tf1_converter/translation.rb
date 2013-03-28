@@ -23,15 +23,14 @@ module TF1Converter
     end
 
     def into(output_file)
-      raw_file_name = output_file.path.split('.').first
-      csv_path = raw_file_name + '.csv'
-      CsvFile.new(@gpx.waypoints, csv_path).to_csv!
+      csv_file_name = CsvFile.translate_filename(output_file.path)
+      CsvFile.new(@gpx.waypoints, csv_file_name).to_csv!
 
       kml = KmlFile.new(@gpx.waypoints, @gpx.tracks, @filename).to_xml
       output_file.puts kml
       output_file.close
 
-      kmz = KmzFile.assemble!(raw_file_name)
+      kmz = KmzFile.assemble!(csv_file_name.gsub(/\.csv$/,''))
     end
 
   end
