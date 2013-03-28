@@ -15,11 +15,16 @@ module TF1Converter
         if symbol_name
           map_entry = @icon_map[symbol_name]
           return map_entry['icon'] if map_entry
-        elsif name
+        end
+
+        if name
           @icon_map.values.each do |icon_data|
-            return icon_data['icon'] if icon_data['name'].upcase == name.slice(0,3).upcase
+            if icon_data['name']
+              return icon_data['icon'] if icon_data['name'].upcase == name.slice(0,3).upcase
+            end
           end
         end
+
         'default.png'
       end
 
