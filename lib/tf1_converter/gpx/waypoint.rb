@@ -32,7 +32,9 @@ module TF1Converter
       end
 
       def timestamp
-        @node.children.select{ |child| child.name == 'cmt' }.first.text
+        cmt_node = @node.children.select{ |child| child.name == 'cmt' }.first
+        return cmt_node.text if cmt_node
+        @node.children.select{ |child| child.name == 'time' }.first.text
       end
 
       def lat

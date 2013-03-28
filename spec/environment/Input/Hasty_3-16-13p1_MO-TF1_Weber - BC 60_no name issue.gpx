@@ -1,0 +1,1066 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2013-03-17T13:47:30Z</time>
+    <bounds maxlat="38.920832443982363" maxlon="-92.295944597572088" minlat="38.91850495710969" minlon="-92.298436872661114" />
+  </metadata>
+
+  <wpt lat="38.920564474537969" lon="-92.29725225828588">
+    <ele>223.150146484375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>&amp;04</name>
+    <cmt>16-MAR-13 1:42:59PM</cmt>
+    <desc>16-MAR-13 1:42:59PM</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.920039096847177" lon="-92.298358334228396">
+    <ele>218.8240966796875</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>001</name>
+    <cmt>16-MAR-13 1:26:00PM</cmt>
+    <desc>16-MAR-13 1:26:00PM</desc>
+    <sym>Custom 0</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919849330559373" lon="-92.298266887664795">
+    <ele>218.583740234375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>002</name>
+    <cmt>16-MAR-13 1:26:38PM</cmt>
+    <desc>16-MAR-13 1:26:38PM</desc>
+    <sym>Custom 1</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.91988436691463" lon="-92.297991709783673">
+    <ele>219.785400390625</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>003</name>
+    <cmt>16-MAR-13 1:27:29PM</cmt>
+    <desc>16-MAR-13 1:27:29PM</desc>
+    <sym>Custom 2</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.920007832348347" lon="-92.29741059243679">
+    <ele>221.7081298828125</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>004</name>
+    <cmt>16-MAR-13 1:28:35PM</cmt>
+    <desc>16-MAR-13 1:28:35PM</desc>
+    <sym>Custom 3</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919901801273227" lon="-92.297180760651827">
+    <ele>220.746826171875</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>005</name>
+    <cmt>16-MAR-13 1:29:08PM</cmt>
+    <desc>16-MAR-13 1:29:08PM</desc>
+    <sym>Custom 4</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919405257329345" lon="-92.29734412394464">
+    <ele>220.26611328125</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>006</name>
+    <cmt>16-MAR-13 1:30:13PM</cmt>
+    <desc>16-MAR-13 1:30:13PM</desc>
+    <sym>Custom 5</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.91917685046792" lon="-92.297762632369995">
+    <ele>216.4207763671875</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>007</name>
+    <cmt>16-MAR-13 1:31:00PM</cmt>
+    <desc>16-MAR-13 1:31:00PM</desc>
+    <sym>Custom 6</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919007703661919" lon="-92.297704461961985">
+    <ele>214.9788818359375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>008</name>
+    <cmt>16-MAR-13 1:31:38PM</cmt>
+    <desc>16-MAR-13 1:31:38PM</desc>
+    <sym>Custom 7</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919084649533033" lon="-92.297423500567675">
+    <ele>216.1805419921875</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>009</name>
+    <cmt>16-MAR-13 1:32:10PM</cmt>
+    <desc>16-MAR-13 1:32:10PM</desc>
+    <sym>Custom 8</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919288665056229" lon="-92.297190902754664">
+    <ele>219.5450439453125</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>010</name>
+    <cmt>16-MAR-13 1:32:58PM</cmt>
+    <desc>16-MAR-13 1:32:58PM</desc>
+    <sym>Custom 9</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919586976990104" lon="-92.296934584155679">
+    <ele>222.66943359375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>011</name>
+    <cmt>16-MAR-13 1:34:01PM</cmt>
+    <desc>16-MAR-13 1:34:01PM</desc>
+    <sym>Custom 10</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919374160468578" lon="-92.296378193423152">
+    <ele>223.87109375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>012</name>
+    <cmt>16-MAR-13 1:35:00PM</cmt>
+    <desc>16-MAR-13 1:35:00PM</desc>
+    <sym>Custom 11</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919090935960412" lon="-92.296216674149036">
+    <ele>223.6307373046875</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>013</name>
+    <cmt>16-MAR-13 1:35:41PM</cmt>
+    <desc>16-MAR-13 1:35:41PM</desc>
+    <sym>Custom 12</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.918865127488971" lon="-92.296385653316975">
+    <ele>221.4677734375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>014</name>
+    <cmt>16-MAR-13 1:36:19PM</cmt>
+    <desc>16-MAR-13 1:36:19PM</desc>
+    <sym>Custom 13</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.918610569089651" lon="-92.296639792621136">
+    <ele>218.583740234375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>015</name>
+    <cmt>16-MAR-13 1:36:56PM</cmt>
+    <desc>16-MAR-13 1:36:56PM</desc>
+    <sym>Custom 14</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.91850889660418" lon="-92.296529654413462">
+    <ele>218.1031494140625</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>016</name>
+    <cmt>16-MAR-13 1:37:29PM</cmt>
+    <desc>16-MAR-13 1:37:29PM</desc>
+    <sym>Custom 15</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.918647365644574" lon="-92.29638397693634">
+    <ele>219.064453125</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>017</name>
+    <cmt>16-MAR-13 1:37:56PM</cmt>
+    <desc>16-MAR-13 1:37:56PM</desc>
+    <sym>Custom 16</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.918851967900991" lon="-92.296189432963729">
+    <ele>220.746826171875</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>018</name>
+    <cmt>16-MAR-13 1:38:28PM</cmt>
+    <desc>16-MAR-13 1:38:28PM</desc>
+    <sym>Custom 17</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919005021452904" lon="-92.296030260622501">
+    <ele>223.150146484375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>019</name>
+    <cmt>16-MAR-13 1:38:59PM</cmt>
+    <desc>16-MAR-13 1:38:59PM</desc>
+    <sym>Custom 18</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.91935957595706" lon="-92.295973850414157">
+    <ele>224.592041015625</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>020</name>
+    <cmt>16-MAR-13 1:39:36PM</cmt>
+    <desc>16-MAR-13 1:39:36PM</desc>
+    <sym>Custom 19</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.91948027536273" lon="-92.296198401600122">
+    <ele>224.8323974609375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>021</name>
+    <cmt>16-MAR-13 1:40:06PM</cmt>
+    <desc>16-MAR-13 1:40:06PM</desc>
+    <sym>Custom 20</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919644309207797" lon="-92.296555386856198">
+    <ele>224.592041015625</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>022</name>
+    <cmt>16-MAR-13 1:40:44PM</cmt>
+    <desc>16-MAR-13 1:40:44PM</desc>
+    <sym>Custom 21</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.919816389679909" lon="-92.296815058216453">
+    <ele>224.3516845703125</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>023</name>
+    <cmt>16-MAR-13 1:41:16PM</cmt>
+    <desc>16-MAR-13 1:41:16PM</desc>
+    <sym>Custom 22</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.920046389102936" lon="-92.297181934118271">
+    <ele>224.8323974609375</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>024</name>
+    <cmt>16-MAR-13 1:42:00PM</cmt>
+    <desc>16-MAR-13 1:42:00PM</desc>
+    <sym>Custom 23</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.920827331021428" lon="-92.297498686239123">
+    <ele>224.111328125</ele>
+    <time>2013-03-16T19:04:28Z</time>
+    <name>025</name>
+    <cmt>16-MAR-13 1:46:15PM</cmt>
+    <desc>16-MAR-13 1:46:15PM</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Hasty_3-16-13p1_MO-TF1_Weber - BC 60.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>ACTIVE LOG 002</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Transparent</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="38.920038426294923" lon="-92.298408458009362">
+        <ele>216.4339599609375</ele>
+        <time>2013-03-16T18:25:20Z</time>
+      </trkpt>
+      <trkpt lat="38.920046640560031" lon="-92.298434441909194">
+        <ele>218.3565673828125</ele>
+        <time>2013-03-16T18:25:23Z</time>
+      </trkpt>
+      <trkpt lat="38.92005586065352" lon="-92.298434525728226">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:25:35Z</time>
+      </trkpt>
+      <trkpt lat="38.920060051605105" lon="-92.298436872661114">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:25:36Z</time>
+      </trkpt>
+      <trkpt lat="38.920046053826809" lon="-92.298375349491835">
+        <ele>218.3565673828125</ele>
+        <time>2013-03-16T18:25:50Z</time>
+      </trkpt>
+      <trkpt lat="38.920030882582068" lon="-92.298358837142587">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:26:10Z</time>
+      </trkpt>
+      <trkpt lat="38.920029792934656" lon="-92.298357160761952">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:26:22Z</time>
+      </trkpt>
+      <trkpt lat="38.920022081583738" lon="-92.298330757766962">
+        <ele>218.8372802734375</ele>
+        <time>2013-03-16T18:26:24Z</time>
+      </trkpt>
+      <trkpt lat="38.919898448511958" lon="-92.298312736675143">
+        <ele>218.8372802734375</ele>
+        <time>2013-03-16T18:26:33Z</time>
+      </trkpt>
+      <trkpt lat="38.919865759089589" lon="-92.298296056687832">
+        <ele>218.3565673828125</ele>
+        <time>2013-03-16T18:26:35Z</time>
+      </trkpt>
+      <trkpt lat="38.919853353872895" lon="-92.298269988968968">
+        <ele>218.3565673828125</ele>
+        <time>2013-03-16T18:26:37Z</time>
+      </trkpt>
+      <trkpt lat="38.919865256175399" lon="-92.29828767478466">
+        <ele>218.3565673828125</ele>
+        <time>2013-03-16T18:26:45Z</time>
+      </trkpt>
+      <trkpt lat="38.919863076880574" lon="-92.298290189355612">
+        <ele>218.8372802734375</ele>
+        <time>2013-03-16T18:26:52Z</time>
+      </trkpt>
+      <trkpt lat="38.919818820431828" lon="-92.298198826611042">
+        <ele>218.8372802734375</ele>
+        <time>2013-03-16T18:27:04Z</time>
+      </trkpt>
+      <trkpt lat="38.919854024425149" lon="-92.298043929040432">
+        <ele>218.8372802734375</ele>
+        <time>2013-03-16T18:27:11Z</time>
+      </trkpt>
+      <trkpt lat="38.919882355257869" lon="-92.29798617772758">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:27:24Z</time>
+      </trkpt>
+      <trkpt lat="38.919906578958035" lon="-92.298003360629082">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:27:55Z</time>
+      </trkpt>
+      <trkpt lat="38.920074887573719" lon="-92.297775791957974">
+        <ele>220.2791748046875</ele>
+        <time>2013-03-16T18:28:08Z</time>
+      </trkpt>
+      <trkpt lat="38.920090226456523" lon="-92.297755591571331">
+        <ele>220.2791748046875</ele>
+        <time>2013-03-16T18:28:10Z</time>
+      </trkpt>
+      <trkpt lat="38.920161053538322" lon="-92.297615865245461">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:28:18Z</time>
+      </trkpt>
+      <trkpt lat="38.920132555067539" lon="-92.297551995143294">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:28:23Z</time>
+      </trkpt>
+      <trkpt lat="38.920098692178726" lon="-92.297408580780029">
+        <ele>220.7598876953125</ele>
+        <time>2013-03-16T18:28:29Z</time>
+      </trkpt>
+      <trkpt lat="38.920075222849846" lon="-92.297366922721267">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:28:33Z</time>
+      </trkpt>
+      <trkpt lat="38.920075222849846" lon="-92.297366922721267">
+        <ele>221.72119140625</ele>
+        <time>2013-03-16T18:28:40Z</time>
+      </trkpt>
+      <trkpt lat="38.920061895623803" lon="-92.297343201935291">
+        <ele>221.72119140625</ele>
+        <time>2013-03-16T18:28:42Z</time>
+      </trkpt>
+      <trkpt lat="38.920061895623803" lon="-92.297343201935291">
+        <ele>220.7598876953125</ele>
+        <time>2013-03-16T18:28:52Z</time>
+      </trkpt>
+      <trkpt lat="38.92002459615469" lon="-92.297276817262173">
+        <ele>220.2791748046875</ele>
+        <time>2013-03-16T18:28:56Z</time>
+      </trkpt>
+      <trkpt lat="38.920183181762695" lon="-92.297558784484863">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:29:04Z</time>
+      </trkpt>
+      <trkpt lat="38.920183181762695" lon="-92.297558784484863">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:29:05Z</time>
+      </trkpt>
+      <trkpt lat="38.919923678040504" lon="-92.29721705429256">
+        <ele>219.798583984375</ele>
+        <time>2013-03-16T18:29:22Z</time>
+      </trkpt>
+      <trkpt lat="38.919904986396432" lon="-92.297198195010424">
+        <ele>220.2791748046875</ele>
+        <time>2013-03-16T18:29:31Z</time>
+      </trkpt>
+      <trkpt lat="38.919858383014798" lon="-92.296981355175376">
+        <ele>219.798583984375</ele>
+        <time>2013-03-16T18:29:38Z</time>
+      </trkpt>
+      <trkpt lat="38.919841619208455" lon="-92.296951599419117">
+        <ele>220.7598876953125</ele>
+        <time>2013-03-16T18:29:41Z</time>
+      </trkpt>
+      <trkpt lat="38.919826867058873" lon="-92.296925447881222">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:29:44Z</time>
+      </trkpt>
+      <trkpt lat="38.919608434662223" lon="-92.297046314924955">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:29:51Z</time>
+      </trkpt>
+      <trkpt lat="38.919545570388436" lon="-92.297104233875871">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:29:59Z</time>
+      </trkpt>
+      <trkpt lat="38.919472564011812" lon="-92.29717162437737">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:30:03Z</time>
+      </trkpt>
+      <trkpt lat="38.91938497312367" lon="-92.297252509742975">
+        <ele>219.798583984375</ele>
+        <time>2013-03-16T18:30:14Z</time>
+      </trkpt>
+      <trkpt lat="38.91938497312367" lon="-92.297252509742975">
+        <ele>218.8372802734375</ele>
+        <time>2013-03-16T18:30:30Z</time>
+      </trkpt>
+      <trkpt lat="38.919253293424845" lon="-92.297374047338963">
+        <ele>217.8759765625</ele>
+        <time>2013-03-16T18:30:38Z</time>
+      </trkpt>
+      <trkpt lat="38.919232590124011" lon="-92.297396259382367">
+        <ele>217.3953857421875</ele>
+        <time>2013-03-16T18:30:41Z</time>
+      </trkpt>
+      <trkpt lat="38.919183388352394" lon="-92.297465074807405">
+        <ele>217.8759765625</ele>
+        <time>2013-03-16T18:30:45Z</time>
+      </trkpt>
+      <trkpt lat="38.919148435816169" lon="-92.297514108940959">
+        <ele>216.9146728515625</ele>
+        <time>2013-03-16T18:30:52Z</time>
+      </trkpt>
+      <trkpt lat="38.919083140790462" lon="-92.297605387866497">
+        <ele>215.47265625</ele>
+        <time>2013-03-16T18:31:01Z</time>
+      </trkpt>
+      <trkpt lat="38.919071154668927" lon="-92.297622319310904">
+        <ele>216.9146728515625</ele>
+        <time>2013-03-16T18:31:09Z</time>
+      </trkpt>
+      <trkpt lat="38.919071154668927" lon="-92.297622319310904">
+        <ele>215.47265625</ele>
+        <time>2013-03-16T18:31:23Z</time>
+      </trkpt>
+      <trkpt lat="38.919024467468262" lon="-92.297687530517578">
+        <ele>214.51123046875</ele>
+        <time>2013-03-16T18:31:29Z</time>
+      </trkpt>
+      <trkpt lat="38.91900678165257" lon="-92.297696666792035">
+        <ele>214.51123046875</ele>
+        <time>2013-03-16T18:31:39Z</time>
+      </trkpt>
+      <trkpt lat="38.919006194919348" lon="-92.297680741176009">
+        <ele>214.991943359375</ele>
+        <time>2013-03-16T18:31:44Z</time>
+      </trkpt>
+      <trkpt lat="38.918982977047563" lon="-92.297650733962655">
+        <ele>214.991943359375</ele>
+        <time>2013-03-16T18:31:54Z</time>
+      </trkpt>
+      <trkpt lat="38.918985743075609" lon="-92.297640340402722">
+        <ele>214.51123046875</ele>
+        <time>2013-03-16T18:31:56Z</time>
+      </trkpt>
+      <trkpt lat="38.919035866856575" lon="-92.297460464760661">
+        <ele>215.47265625</ele>
+        <time>2013-03-16T18:32:06Z</time>
+      </trkpt>
+      <trkpt lat="38.919080458581448" lon="-92.297405479475856">
+        <ele>217.8759765625</ele>
+        <time>2013-03-16T18:32:20Z</time>
+      </trkpt>
+      <trkpt lat="38.919080458581448" lon="-92.297408161684871">
+        <ele>217.3953857421875</ele>
+        <time>2013-03-16T18:32:21Z</time>
+      </trkpt>
+      <trkpt lat="38.919077357277274" lon="-92.297442024573684">
+        <ele>217.3953857421875</ele>
+        <time>2013-03-16T18:32:36Z</time>
+      </trkpt>
+      <trkpt lat="38.919128654524684" lon="-92.29739592410624">
+        <ele>217.3953857421875</ele>
+        <time>2013-03-16T18:32:41Z</time>
+      </trkpt>
+      <trkpt lat="38.919259579852223" lon="-92.297218982130289">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:32:52Z</time>
+      </trkpt>
+      <trkpt lat="38.919297382235527" lon="-92.297189561650157">
+        <ele>219.798583984375</ele>
+        <time>2013-03-16T18:33:08Z</time>
+      </trkpt>
+      <trkpt lat="38.919309871271253" lon="-92.29718822054565">
+        <ele>220.2791748046875</ele>
+        <time>2013-03-16T18:33:22Z</time>
+      </trkpt>
+      <trkpt lat="38.919426128268242" lon="-92.297090822830796">
+        <ele>220.7598876953125</ele>
+        <time>2013-03-16T18:33:47Z</time>
+      </trkpt>
+      <trkpt lat="38.919463260099292" lon="-92.297060145065188">
+        <ele>221.2406005859375</ele>
+        <time>2013-03-16T18:33:50Z</time>
+      </trkpt>
+      <trkpt lat="38.919586054980755" lon="-92.296936176717281">
+        <ele>222.6824951171875</ele>
+        <time>2013-03-16T18:34:01Z</time>
+      </trkpt>
+      <trkpt lat="38.919578678905964" lon="-92.296932488679886">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:34:19Z</time>
+      </trkpt>
+      <trkpt lat="38.919654870405793" lon="-92.29686476290226">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:34:25Z</time>
+      </trkpt>
+      <trkpt lat="38.919646153226495" lon="-92.296800725162029">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:34:29Z</time>
+      </trkpt>
+      <trkpt lat="38.919541127979755" lon="-92.296607354655862">
+        <ele>222.6824951171875</ele>
+        <time>2013-03-16T18:34:43Z</time>
+      </trkpt>
+      <trkpt lat="38.919522017240524" lon="-92.296573575586081">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:34:45Z</time>
+      </trkpt>
+      <trkpt lat="38.919418165460229" lon="-92.296431083232164">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:34:55Z</time>
+      </trkpt>
+      <trkpt lat="38.919369298964739" lon="-92.296345084905624">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:35:08Z</time>
+      </trkpt>
+      <trkpt lat="38.919277684763074" lon="-92.296185828745365">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:35:25Z</time>
+      </trkpt>
+      <trkpt lat="38.919225130230188" lon="-92.296123299747705">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:35:30Z</time>
+      </trkpt>
+      <trkpt lat="38.91914114356041" lon="-92.296156827360392">
+        <ele>223.643798828125</ele>
+        <time>2013-03-16T18:35:35Z</time>
+      </trkpt>
+      <trkpt lat="38.919118596240878" lon="-92.296180548146367">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:35:37Z</time>
+      </trkpt>
+      <trkpt lat="38.919087080284953" lon="-92.296213740482926">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:35:55Z</time>
+      </trkpt>
+      <trkpt lat="38.918991526588798" lon="-92.29629747569561">
+        <ele>222.6824951171875</ele>
+        <time>2013-03-16T18:36:09Z</time>
+      </trkpt>
+      <trkpt lat="38.918860852718353" lon="-92.296391017735004">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:36:21Z</time>
+      </trkpt>
+      <trkpt lat="38.918859763070941" lon="-92.296391436830163">
+        <ele>222.2017822265625</ele>
+        <time>2013-03-16T18:36:22Z</time>
+      </trkpt>
+      <trkpt lat="38.918850459158421" lon="-92.296386072412133">
+        <ele>221.72119140625</ele>
+        <time>2013-03-16T18:36:26Z</time>
+      </trkpt>
+      <trkpt lat="38.918750043958426" lon="-92.296484559774399">
+        <ele>219.798583984375</ele>
+        <time>2013-03-16T18:36:41Z</time>
+      </trkpt>
+      <trkpt lat="38.918738393113017" lon="-92.296497384086251">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:36:42Z</time>
+      </trkpt>
+      <trkpt lat="38.918610485270619" lon="-92.296639792621136">
+        <ele>218.3565673828125</ele>
+        <time>2013-03-16T18:36:56Z</time>
+      </trkpt>
+      <trkpt lat="38.918607719242573" lon="-92.296636858955026">
+        <ele>218.8372802734375</ele>
+        <time>2013-03-16T18:37:21Z</time>
+      </trkpt>
+      <trkpt lat="38.918540328741074" lon="-92.296567624434829">
+        <ele>218.3565673828125</ele>
+        <time>2013-03-16T18:37:26Z</time>
+      </trkpt>
+      <trkpt lat="38.91850495710969" lon="-92.296524457633495">
+        <ele>218.8372802734375</ele>
+        <time>2013-03-16T18:37:37Z</time>
+      </trkpt>
+      <trkpt lat="38.918518954887986" lon="-92.296504424884915">
+        <ele>217.8759765625</ele>
+        <time>2013-03-16T18:37:46Z</time>
+      </trkpt>
+      <trkpt lat="38.918606378138065" lon="-92.296428987756371">
+        <ele>218.3565673828125</ele>
+        <time>2013-03-16T18:37:52Z</time>
+      </trkpt>
+      <trkpt lat="38.918652562424541" lon="-92.296367296949029">
+        <ele>219.3179931640625</ele>
+        <time>2013-03-16T18:38:01Z</time>
+      </trkpt>
+      <trkpt lat="38.918746775016189" lon="-92.296287585049868">
+        <ele>220.2791748046875</ele>
+        <time>2013-03-16T18:38:20Z</time>
+      </trkpt>
+      <trkpt lat="38.918851716443896" lon="-92.296191779896617">
+        <ele>220.7598876953125</ele>
+        <time>2013-03-16T18:38:28Z</time>
+      </trkpt>
+      <trkpt lat="38.918850291520357" lon="-92.296192450448871">
+        <ele>221.72119140625</ele>
+        <time>2013-03-16T18:38:29Z</time>
+      </trkpt>
+      <trkpt lat="38.918837131932378" lon="-92.29616797529161">
+        <ele>220.7598876953125</ele>
+        <time>2013-03-16T18:38:44Z</time>
+      </trkpt>
+      <trkpt lat="38.918925980105996" lon="-92.296090442687273">
+        <ele>222.2017822265625</ele>
+        <time>2013-03-16T18:38:51Z</time>
+      </trkpt>
+      <trkpt lat="38.919008374214172" lon="-92.296024728566408">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:38:59Z</time>
+      </trkpt>
+      <trkpt lat="38.919020695611835" lon="-92.296025063842535">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:39:08Z</time>
+      </trkpt>
+      <trkpt lat="38.919052043929696" lon="-92.296000421047211">
+        <ele>222.6824951171875</ele>
+        <time>2013-03-16T18:39:17Z</time>
+      </trkpt>
+      <trkpt lat="38.919073082506657" lon="-92.295976281166077">
+        <ele>222.6824951171875</ele>
+        <time>2013-03-16T18:39:19Z</time>
+      </trkpt>
+      <trkpt lat="38.919125469401479" lon="-92.295944597572088">
+        <ele>223.643798828125</ele>
+        <time>2013-03-16T18:39:22Z</time>
+      </trkpt>
+      <trkpt lat="38.919238541275263" lon="-92.295952225103974">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:39:27Z</time>
+      </trkpt>
+      <trkpt lat="38.919360665604472" lon="-92.295984998345375">
+        <ele>225.5665283203125</ele>
+        <time>2013-03-16T18:39:39Z</time>
+      </trkpt>
+      <trkpt lat="38.919372987002134" lon="-92.29600528255105">
+        <ele>225.0859375</ele>
+        <time>2013-03-16T18:39:54Z</time>
+      </trkpt>
+      <trkpt lat="38.919407352805138" lon="-92.296099746599793">
+        <ele>225.0859375</ele>
+        <time>2013-03-16T18:39:59Z</time>
+      </trkpt>
+      <trkpt lat="38.919477090239525" lon="-92.296198066323996">
+        <ele>226.047119140625</ele>
+        <time>2013-03-16T18:40:13Z</time>
+      </trkpt>
+      <trkpt lat="38.919501649215817" lon="-92.296277526766062">
+        <ele>225.0859375</ele>
+        <time>2013-03-16T18:40:27Z</time>
+      </trkpt>
+      <trkpt lat="38.919535344466567" lon="-92.296394035220146">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:40:32Z</time>
+      </trkpt>
+      <trkpt lat="38.919649086892605" lon="-92.296558571979403">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:40:46Z</time>
+      </trkpt>
+      <trkpt lat="38.919710861518979" lon="-92.296657226979733">
+        <ele>224.605224609375</ele>
+        <time>2013-03-16T18:41:05Z</time>
+      </trkpt>
+      <trkpt lat="38.919819490984082" lon="-92.29681639932096">
+        <ele>224.605224609375</ele>
+        <time>2013-03-16T18:41:17Z</time>
+      </trkpt>
+      <trkpt lat="38.919813958927989" lon="-92.296842886134982">
+        <ele>225.5665283203125</ele>
+        <time>2013-03-16T18:41:34Z</time>
+      </trkpt>
+      <trkpt lat="38.919905489310622" lon="-92.296988144516945">
+        <ele>224.605224609375</ele>
+        <time>2013-03-16T18:41:45Z</time>
+      </trkpt>
+      <trkpt lat="38.920007077977061" lon="-92.297124182805419">
+        <ele>224.605224609375</ele>
+        <time>2013-03-16T18:41:55Z</time>
+      </trkpt>
+      <trkpt lat="38.920046556740999" lon="-92.29717162437737">
+        <ele>224.605224609375</ele>
+        <time>2013-03-16T18:42:10Z</time>
+      </trkpt>
+      <trkpt lat="38.920070193707943" lon="-92.29724932461977">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:42:22Z</time>
+      </trkpt>
+      <trkpt lat="38.920123921707273" lon="-92.297336999326944">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:42:27Z</time>
+      </trkpt>
+      <trkpt lat="38.920193491503596" lon="-92.297434480860829">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:42:33Z</time>
+      </trkpt>
+      <trkpt lat="38.920300444588065" lon="-92.297383770346642">
+        <ele>222.2017822265625</ele>
+        <time>2013-03-16T18:42:40Z</time>
+      </trkpt>
+      <trkpt lat="38.920321650803089" lon="-92.297376394271851">
+        <ele>222.2017822265625</ele>
+        <time>2013-03-16T18:42:41Z</time>
+      </trkpt>
+      <trkpt lat="38.920400943607092" lon="-92.29731529019773">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:42:47Z</time>
+      </trkpt>
+      <trkpt lat="38.920576628297567" lon="-92.297241445630789">
+        <ele>223.1632080078125</ele>
+        <time>2013-03-16T18:43:01Z</time>
+      </trkpt>
+      <trkpt lat="38.920597247779369" lon="-92.297251420095563">
+        <ele>223.643798828125</ele>
+        <time>2013-03-16T18:43:12Z</time>
+      </trkpt>
+      <trkpt lat="38.920597583055496" lon="-92.297260472550988">
+        <ele>222.2017822265625</ele>
+        <time>2013-03-16T18:43:28Z</time>
+      </trkpt>
+      <trkpt lat="38.920615436509252" lon="-92.297272123396397">
+        <ele>224.605224609375</ele>
+        <time>2013-03-16T18:43:54Z</time>
+      </trkpt>
+      <trkpt lat="38.920629434287548" lon="-92.297230381518602">
+        <ele>224.605224609375</ele>
+        <time>2013-03-16T18:44:08Z</time>
+      </trkpt>
+      <trkpt lat="38.920631697401404" lon="-92.297219485044479">
+        <ele>223.643798828125</ele>
+        <time>2013-03-16T18:44:18Z</time>
+      </trkpt>
+      <trkpt lat="38.92068425193429" lon="-92.297219485044479">
+        <ele>223.643798828125</ele>
+        <time>2013-03-16T18:44:22Z</time>
+      </trkpt>
+      <trkpt lat="38.920803023502231" lon="-92.297206744551659">
+        <ele>224.605224609375</ele>
+        <time>2013-03-16T18:44:32Z</time>
+      </trkpt>
+      <trkpt lat="38.920821128413081" lon="-92.297238260507584">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:44:50Z</time>
+      </trkpt>
+      <trkpt lat="38.920790450647473" lon="-92.297285199165344">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:45:06Z</time>
+      </trkpt>
+      <trkpt lat="38.92077268101275" lon="-92.297271620482206">
+        <ele>223.643798828125</ele>
+        <time>2013-03-16T18:45:34Z</time>
+      </trkpt>
+      <trkpt lat="38.920760443434119" lon="-92.297263154760003">
+        <ele>223.643798828125</ele>
+        <time>2013-03-16T18:45:48Z</time>
+      </trkpt>
+      <trkpt lat="38.920772345736623" lon="-92.297271369025111">
+        <ele>223.643798828125</ele>
+        <time>2013-03-16T18:45:59Z</time>
+      </trkpt>
+      <trkpt lat="38.920792378485203" lon="-92.297253431752324">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:46:01Z</time>
+      </trkpt>
+      <trkpt lat="38.920832443982363" lon="-92.297339430078864">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:46:06Z</time>
+      </trkpt>
+      <trkpt lat="38.920823726803064" lon="-92.297502458095551">
+        <ele>225.0859375</ele>
+        <time>2013-03-16T18:46:19Z</time>
+      </trkpt>
+      <trkpt lat="38.920817272737622" lon="-92.297516539692879">
+        <ele>225.5665283203125</ele>
+        <time>2013-03-16T18:46:33Z</time>
+      </trkpt>
+      <trkpt lat="38.920633792877197" lon="-92.297663055360317">
+        <ele>226.52783203125</ele>
+        <time>2013-03-16T18:46:46Z</time>
+      </trkpt>
+      <trkpt lat="38.920624824240804" lon="-92.297704378142953">
+        <ele>227.4891357421875</ele>
+        <time>2013-03-16T18:47:02Z</time>
+      </trkpt>
+      <trkpt lat="38.920648796483874" lon="-92.297707563266158">
+        <ele>227.008544921875</ele>
+        <time>2013-03-16T18:47:11Z</time>
+      </trkpt>
+      <trkpt lat="38.920651059597731" lon="-92.297706389799714">
+        <ele>225.5665283203125</ele>
+        <time>2013-03-16T18:47:13Z</time>
+      </trkpt>
+      <trkpt lat="38.920614179223776" lon="-92.297720219939947">
+        <ele>226.047119140625</ele>
+        <time>2013-03-16T18:47:43Z</time>
+      </trkpt>
+      <trkpt lat="38.920428436249495" lon="-92.297880565747619">
+        <ele>226.52783203125</ele>
+        <time>2013-03-16T18:47:56Z</time>
+      </trkpt>
+      <trkpt lat="38.920324081555009" lon="-92.297981483861804">
+        <ele>227.4891357421875</ele>
+        <time>2013-03-16T18:48:03Z</time>
+      </trkpt>
+      <trkpt lat="38.92018343321979" lon="-92.298157839104533">
+        <ele>226.047119140625</ele>
+        <time>2013-03-16T18:48:15Z</time>
+      </trkpt>
+      <trkpt lat="38.920075390487909" lon="-92.298289267346263">
+        <ele>224.605224609375</ele>
+        <time>2013-03-16T18:48:24Z</time>
+      </trkpt>
+      <trkpt lat="38.920028870925307" lon="-92.298347437754273">
+        <ele>224.12451171875</ele>
+        <time>2013-03-16T18:48:31Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

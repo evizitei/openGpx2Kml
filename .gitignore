@@ -9,3 +9,6 @@ spec/fixtures/test.kml
 spec/fixtures/waypoint-by-name.kml
 spec/fixtures/ftwood2.kml
 spec/fixtures/*.kmz
+dump.rdb
+test.ttt
+spec/environment/Output/*

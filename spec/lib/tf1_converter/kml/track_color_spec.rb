@@ -22,6 +22,7 @@ module TF1Converter::Kml
       end
 
       it 'left pads each color' do
+        TrackColor.uncache!
         colors.each{ |v| v.should =~ /^0000000\d$/ }
       end
     end

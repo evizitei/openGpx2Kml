@@ -66,5 +66,19 @@ module TF1Converter::Gpx
         waypoint.icon_meaning.should == 'Default'
       end
     end
+
+    describe '#timestamp' do
+
+      it 'pulls from the cmt value first' do
+        fragment = %Q{ <wpt> <cmt>Time1</cmt> <time>Time2</time> </wpt> }
+        waypoint_from(fragment).timestamp.should == 'Time1'
+      end
+
+      it 'grabs the time element if there is no cmt' do
+        fragment = %Q{ <wpt> <time>Time2</time> </wpt> }
+        waypoint_from(fragment).timestamp.should == 'Time2'
+      end
+
+    end
   end
 end

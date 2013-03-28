@@ -1,0 +1,2387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.16.3" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-08-25T22:16:30Z</time>
+    <bounds maxlat="38.545095361769199" maxlon="-91.007960988208652" minlat="38.540463522076607" minlon="-91.014168709516525"/>
+  </metadata>
+
+  <wpt lat="38.545064432546496" lon="-91.010428033769131">
+    <ele>177.69839999999999</ele>
+    <name>001</name>
+    <cmt>22-FEB-12 17:30:20</cmt>
+    <desc>22-FEB-12 17:30:20</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.545059319585562" lon="-91.010429291054606">
+    <ele>176.52648930000001</ele>
+    <name>002</name>
+    <cmt>22-FEB-12 17:30:52</cmt>
+    <desc>22-FEB-12 17:30:52</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.545090584084392" lon="-91.010202392935753">
+    <ele>176.52648930000001</ele>
+    <name>003</name>
+    <cmt>22-FEB-12 17:32:14</cmt>
+    <desc>22-FEB-12 17:32:14</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.544908026233315" lon="-91.010180013254285">
+    <ele>173.8829346</ele>
+    <name>004</name>
+    <cmt>22-FEB-12 17:32:30</cmt>
+    <desc>22-FEB-12 17:32:30</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.544867374002934" lon="-91.010379418730736">
+    <ele>173.64257810000001</ele>
+    <name>005</name>
+    <cmt>22-FEB-12 17:32:44</cmt>
+    <desc>22-FEB-12 17:32:44</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.544594626873732" lon="-91.01043046452105">
+    <ele>170.7585449</ele>
+    <name>006</name>
+    <cmt>22-FEB-12 17:33:05</cmt>
+    <desc>22-FEB-12 17:33:05</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.544520363211632" lon="-91.010278919711709">
+    <ele>170.03759769999999</ele>
+    <name>007</name>
+    <cmt>22-FEB-12 17:33:21</cmt>
+    <desc>22-FEB-12 17:33:21</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.544365465641022" lon="-91.010263161733747">
+    <ele>168.5955811</ele>
+    <name>008</name>
+    <cmt>22-FEB-12 17:33:33</cmt>
+    <desc>22-FEB-12 17:33:33</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.544166395440698" lon="-91.010338263586164">
+    <ele>166.19238279999999</ele>
+    <name>009</name>
+    <cmt>22-FEB-12 17:33:48</cmt>
+    <desc>22-FEB-12 17:33:48</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.54336223565042" lon="-91.011085426434875">
+    <ele>166.19238279999999</ele>
+    <name>010</name>
+    <cmt>22-FEB-12 17:35:00</cmt>
+    <desc>22-FEB-12 17:35:00</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543137265369296" lon="-91.011204868555069">
+    <ele>167.39404300000001</ele>
+    <name>011</name>
+    <cmt>22-FEB-12 17:35:18</cmt>
+    <desc>22-FEB-12 17:35:18</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542909529060125" lon="-91.011790512129664">
+    <ele>172.20056149999999</ele>
+    <name>012</name>
+    <cmt>22-FEB-12 17:35:58</cmt>
+    <desc>22-FEB-12 17:35:58</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542847335338593" lon="-91.01204976439476">
+    <ele>173.64257810000001</ele>
+    <name>013</name>
+    <cmt>22-FEB-12 17:36:12</cmt>
+    <desc>22-FEB-12 17:36:12</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542705178260803" lon="-91.012196280062199">
+    <ele>174.36352539999999</ele>
+    <name>014</name>
+    <cmt>22-FEB-12 17:36:26</cmt>
+    <desc>22-FEB-12 17:36:26</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542640469968319" lon="-91.012468859553337">
+    <ele>177.0072021</ele>
+    <name>015</name>
+    <cmt>22-FEB-12 17:36:43</cmt>
+    <desc>22-FEB-12 17:36:43</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542686402797699" lon="-91.01259458810091">
+    <ele>176.7668457</ele>
+    <name>016</name>
+    <cmt>22-FEB-12 17:36:52</cmt>
+    <desc>22-FEB-12 17:36:52</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542642900720239" lon="-91.012758538126945">
+    <ele>176.7668457</ele>
+    <name>017</name>
+    <cmt>22-FEB-12 17:37:03</cmt>
+    <desc>22-FEB-12 17:37:03</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542540641501546" lon="-91.01282618008554">
+    <ele>177.72814940000001</ele>
+    <name>018</name>
+    <cmt>22-FEB-12 17:37:14</cmt>
+    <desc>22-FEB-12 17:37:14</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542463360354304" lon="-91.01307244040072">
+    <ele>177.9683838</ele>
+    <name>019</name>
+    <cmt>22-FEB-12 17:37:31</cmt>
+    <desc>22-FEB-12 17:37:31</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542531924322248" lon="-91.013147458434105">
+    <ele>177.72814940000001</ele>
+    <name>020</name>
+    <cmt>22-FEB-12 17:37:39</cmt>
+    <desc>22-FEB-12 17:37:39</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542525386437774" lon="-91.013380223885179">
+    <ele>177.0072021</ele>
+    <name>021</name>
+    <cmt>22-FEB-12 17:37:53</cmt>
+    <desc>22-FEB-12 17:37:53</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542443327605724" lon="-91.013430263847113">
+    <ele>176.7668457</ele>
+    <name>022</name>
+    <cmt>22-FEB-12 17:38:01</cmt>
+    <desc>22-FEB-12 17:38:01</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542477609589696" lon="-91.013715919107199">
+    <ele>177.0072021</ele>
+    <name>023</name>
+    <cmt>22-FEB-12 17:38:19</cmt>
+    <desc>22-FEB-12 17:38:19</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542373506352305" lon="-91.013960586860776">
+    <ele>177.72814940000001</ele>
+    <name>024</name>
+    <cmt>22-FEB-12 17:38:35</cmt>
+    <desc>22-FEB-12 17:38:35</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542273174971342" lon="-91.013928819447756">
+    <ele>178.20874019999999</ele>
+    <name>025</name>
+    <cmt>22-FEB-12 17:38:44</cmt>
+    <desc>22-FEB-12 17:38:44</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542216261848807" lon="-91.014099223539233">
+    <ele>180.13134769999999</ele>
+    <name>026</name>
+    <cmt>22-FEB-12 17:38:56</cmt>
+    <desc>22-FEB-12 17:38:56</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542036721482873" lon="-91.014168709516525">
+    <ele>182.29431149999999</ele>
+    <name>027</name>
+    <cmt>22-FEB-12 17:39:11</cmt>
+    <desc>22-FEB-12 17:39:11</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541889283806086" lon="-91.014076173305511">
+    <ele>183.0152588</ele>
+    <name>028</name>
+    <cmt>22-FEB-12 17:39:24</cmt>
+    <desc>22-FEB-12 17:39:24</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541800184175372" lon="-91.01416208781302">
+    <ele>184.2169189</ele>
+    <name>029</name>
+    <cmt>22-FEB-12 17:39:35</cmt>
+    <desc>22-FEB-12 17:39:35</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541625421494246" lon="-91.01414741948247">
+    <ele>184.9378662</ele>
+    <name>030</name>
+    <cmt>22-FEB-12 17:39:48</cmt>
+    <desc>22-FEB-12 17:39:48</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541447138413787" lon="-91.014034934341908">
+    <ele>186.13952639999999</ele>
+    <name>031</name>
+    <cmt>22-FEB-12 17:40:03</cmt>
+    <desc>22-FEB-12 17:40:03</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541322499513626" lon="-91.01382153108716">
+    <ele>187.1008301</ele>
+    <name>032</name>
+    <cmt>22-FEB-12 17:40:19</cmt>
+    <desc>22-FEB-12 17:40:19</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541364409029484" lon="-91.01366076618433">
+    <ele>187.34118649999999</ele>
+    <name>033</name>
+    <cmt>22-FEB-12 17:40:30</cmt>
+    <desc>22-FEB-12 17:40:30</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541306741535664" lon="-91.013530762866139">
+    <ele>187.58142090000001</ele>
+    <name>034</name>
+    <cmt>22-FEB-12 17:40:41</cmt>
+    <desc>22-FEB-12 17:40:41</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541323002427816" lon="-91.013234378769994">
+    <ele>187.58142090000001</ele>
+    <name>035</name>
+    <cmt>22-FEB-12 17:40:58</cmt>
+    <desc>22-FEB-12 17:40:58</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541436828672886" lon="-91.013017538934946">
+    <ele>188.0622559</ele>
+    <name>036</name>
+    <cmt>22-FEB-12 17:41:14</cmt>
+    <desc>22-FEB-12 17:41:14</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541478235274553" lon="-91.012693913653493">
+    <ele>186.62023930000001</ele>
+    <name>037</name>
+    <cmt>22-FEB-12 17:41:34</cmt>
+    <desc>22-FEB-12 17:41:34</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.54141453281045" lon="-91.012521162629128">
+    <ele>186.13952639999999</ele>
+    <name>038</name>
+    <cmt>22-FEB-12 17:41:48</cmt>
+    <desc>22-FEB-12 17:41:48</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541512601077557" lon="-91.012364588677883">
+    <ele>185.17822269999999</ele>
+    <name>039</name>
+    <cmt>22-FEB-12 17:42:01</cmt>
+    <desc>22-FEB-12 17:42:01</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541517965495586" lon="-91.012022104114294">
+    <ele>185.17822269999999</ele>
+    <name>040</name>
+    <cmt>22-FEB-12 17:42:21</cmt>
+    <desc>22-FEB-12 17:42:21</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541438588872552" lon="-91.011896040290594">
+    <ele>184.69763180000001</ele>
+    <name>041</name>
+    <cmt>22-FEB-12 17:42:32</cmt>
+    <desc>22-FEB-12 17:42:32</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541516959667206" lon="-91.011684481054544">
+    <ele>183.49597170000001</ele>
+    <name>042</name>
+    <cmt>22-FEB-12 17:42:47</cmt>
+    <desc>22-FEB-12 17:42:47</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541435403749347" lon="-91.011512065306306">
+    <ele>184.2169189</ele>
+    <name>043</name>
+    <cmt>22-FEB-12 17:42:59</cmt>
+    <desc>22-FEB-12 17:42:59</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541424926370382" lon="-91.011073859408498">
+    <ele>183.49597170000001</ele>
+    <name>044</name>
+    <cmt>22-FEB-12 17:43:26</cmt>
+    <desc>22-FEB-12 17:43:26</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541512517258525" lon="-91.010966738685966">
+    <ele>183.9765625</ele>
+    <name>045</name>
+    <cmt>22-FEB-12 17:43:36</cmt>
+    <desc>22-FEB-12 17:43:36</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541495585814118" lon="-91.010618973523378">
+    <ele>184.45727539999999</ele>
+    <name>046</name>
+    <cmt>22-FEB-12 17:43:58</cmt>
+    <desc>22-FEB-12 17:43:58</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541401205584407" lon="-91.010570274665952">
+    <ele>184.9378662</ele>
+    <name>047</name>
+    <cmt>22-FEB-12 17:44:07</cmt>
+    <desc>22-FEB-12 17:44:07</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541353261098266" lon="-91.010285541415215">
+    <ele>185.41857909999999</ele>
+    <name>048</name>
+    <cmt>22-FEB-12 17:44:25</cmt>
+    <desc>22-FEB-12 17:44:25</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541430039331317" lon="-91.010181941092014">
+    <ele>185.65881350000001</ele>
+    <name>049</name>
+    <cmt>22-FEB-12 17:44:35</cmt>
+    <desc>22-FEB-12 17:44:35</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541331132873893" lon="-91.009967364370823">
+    <ele>185.41857909999999</ele>
+    <name>050</name>
+    <cmt>22-FEB-12 17:44:52</cmt>
+    <desc>22-FEB-12 17:44:52</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541933288797736" lon="-91.009855130687356">
+    <ele>183.0152588</ele>
+    <name>051</name>
+    <cmt>22-FEB-12 17:45:42</cmt>
+    <desc>22-FEB-12 17:45:42</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542184410616755" lon="-91.009901231154799">
+    <ele>182.0539551</ele>
+    <name>052</name>
+    <cmt>22-FEB-12 17:46:02</cmt>
+    <desc>22-FEB-12 17:46:02</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542404603213072" lon="-91.009938111528754">
+    <ele>181.81359860000001</ele>
+    <name>053</name>
+    <cmt>22-FEB-12 17:46:19</cmt>
+    <desc>22-FEB-12 17:46:19</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542463108897209" lon="-91.009893184527755">
+    <ele>180.852417</ele>
+    <name>054</name>
+    <cmt>22-FEB-12 17:46:25</cmt>
+    <desc>22-FEB-12 17:46:25</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542431173846126" lon="-91.009766533970833">
+    <ele>180.61206050000001</ele>
+    <name>055</name>
+    <cmt>22-FEB-12 17:46:33</cmt>
+    <desc>22-FEB-12 17:46:33</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542244425043464" lon="-91.009789500385523">
+    <ele>182.29431149999999</ele>
+    <name>056</name>
+    <cmt>22-FEB-12 17:46:48</cmt>
+    <desc>22-FEB-12 17:46:48</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541980562731624" lon="-91.009780364111066">
+    <ele>182.77502440000001</ele>
+    <name>057</name>
+    <cmt>22-FEB-12 17:47:07</cmt>
+    <desc>22-FEB-12 17:47:07</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541641598567367" lon="-91.009768629446626">
+    <ele>184.69763180000001</ele>
+    <name>058</name>
+    <cmt>22-FEB-12 17:47:33</cmt>
+    <desc>22-FEB-12 17:47:33</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541320320218801" lon="-91.009570229798555">
+    <ele>184.9378662</ele>
+    <name>059</name>
+    <cmt>22-FEB-12 17:48:02</cmt>
+    <desc>22-FEB-12 17:48:02</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541351081803441" lon="-91.00919907912612">
+    <ele>182.53466800000001</ele>
+    <name>060</name>
+    <cmt>22-FEB-12 17:48:23</cmt>
+    <desc>22-FEB-12 17:48:23</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541400618851185" lon="-91.008952902629972">
+    <ele>179.8909912</ele>
+    <name>061</name>
+    <cmt>22-FEB-12 17:48:39</cmt>
+    <desc>22-FEB-12 17:48:39</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541506063193083" lon="-91.008876711130142">
+    <ele>179.65075680000001</ele>
+    <name>062</name>
+    <cmt>22-FEB-12 17:48:50</cmt>
+    <desc>22-FEB-12 17:48:50</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541610082611442" lon="-91.008504889905453">
+    <ele>177.0072021</ele>
+    <name>063</name>
+    <cmt>22-FEB-12 17:49:14</cmt>
+    <desc>22-FEB-12 17:49:14</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541764561086893" lon="-91.008166763931513">
+    <ele>176.04577639999999</ele>
+    <name>064</name>
+    <cmt>22-FEB-12 17:49:40</cmt>
+    <desc>22-FEB-12 17:49:40</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542115930467844" lon="-91.008383771404624">
+    <ele>172.20056149999999</ele>
+    <name>065</name>
+    <cmt>22-FEB-12 17:50:11</cmt>
+    <desc>22-FEB-12 17:50:11</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542222464457154" lon="-91.008308166638017">
+    <ele>171.71984860000001</ele>
+    <name>066</name>
+    <cmt>22-FEB-12 17:50:23</cmt>
+    <desc>22-FEB-12 17:50:23</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542380295693874" lon="-91.008483096957207">
+    <ele>171.71984860000001</ele>
+    <name>067</name>
+    <cmt>22-FEB-12 17:50:39</cmt>
+    <desc>22-FEB-12 17:50:39</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542471071705222" lon="-91.008398691192269">
+    <ele>171.23925779999999</ele>
+    <name>068</name>
+    <cmt>22-FEB-12 17:50:49</cmt>
+    <desc>22-FEB-12 17:50:49</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542655138298869" lon="-91.008448814973235">
+    <ele>170.7585449</ele>
+    <name>069</name>
+    <cmt>22-FEB-12 17:51:03</cmt>
+    <desc>22-FEB-12 17:51:03</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542678607627749" lon="-91.008550236001611">
+    <ele>170.7585449</ele>
+    <name>070</name>
+    <cmt>22-FEB-12 17:51:11</cmt>
+    <desc>22-FEB-12 17:51:11</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542923862114549" lon="-91.008541602641344">
+    <ele>170.51818850000001</ele>
+    <name>071</name>
+    <cmt>22-FEB-12 17:51:32</cmt>
+    <desc>22-FEB-12 17:51:32</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542968537658453" lon="-91.008660206571221">
+    <ele>170.51818850000001</ele>
+    <name>072</name>
+    <cmt>22-FEB-12 17:51:42</cmt>
+    <desc>22-FEB-12 17:51:42</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543142462149262" lon="-91.008616369217634">
+    <ele>169.55688480000001</ele>
+    <name>073</name>
+    <cmt>22-FEB-12 17:51:58</cmt>
+    <desc>22-FEB-12 17:51:58</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543369360268116" lon="-91.008715108036995">
+    <ele>168.5955811</ele>
+    <name>074</name>
+    <cmt>22-FEB-12 17:52:17</cmt>
+    <desc>22-FEB-12 17:52:17</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543404480442405" lon="-91.008926834911108">
+    <ele>168.35522460000001</ele>
+    <name>075</name>
+    <cmt>22-FEB-12 17:52:31</cmt>
+    <desc>22-FEB-12 17:52:31</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543511182069778" lon="-91.008936641737819">
+    <ele>168.5955811</ele>
+    <name>076</name>
+    <cmt>22-FEB-12 17:52:41</cmt>
+    <desc>22-FEB-12 17:52:41</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543561976402998" lon="-91.009129174053669">
+    <ele>167.39404300000001</ele>
+    <name>077</name>
+    <cmt>22-FEB-12 17:52:54</cmt>
+    <desc>22-FEB-12 17:52:54</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543550241738558" lon="-91.009398736059666">
+    <ele>168.5955811</ele>
+    <name>078</name>
+    <cmt>22-FEB-12 17:53:09</cmt>
+    <desc>22-FEB-12 17:53:09</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.54346290230751" lon="-91.009458163753152">
+    <ele>168.35522460000001</ele>
+    <name>079</name>
+    <cmt>22-FEB-12 17:53:17</cmt>
+    <desc>22-FEB-12 17:53:17</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543502632528543" lon="-91.009727222844958">
+    <ele>168.8359375</ele>
+    <name>080</name>
+    <cmt>22-FEB-12 17:53:35</cmt>
+    <desc>22-FEB-12 17:53:35</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.54339693672955" lon="-91.009849011898041">
+    <ele>169.7972412</ele>
+    <name>081</name>
+    <cmt>22-FEB-12 17:53:47</cmt>
+    <desc>22-FEB-12 17:53:47</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543447982519865" lon="-91.01008839905262">
+    <ele>169.31665039999999</ele>
+    <name>082</name>
+    <cmt>22-FEB-12 17:54:02</cmt>
+    <desc>22-FEB-12 17:54:02</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543352764099836" lon="-91.010157382115722">
+    <ele>169.7972412</ele>
+    <name>083</name>
+    <cmt>22-FEB-12 17:54:12</cmt>
+    <desc>22-FEB-12 17:54:12</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543304735794663" lon="-91.010390901938081">
+    <ele>169.55688480000001</ele>
+    <name>084</name>
+    <cmt>22-FEB-12 17:54:26</cmt>
+    <desc>22-FEB-12 17:54:26</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543368605896831" lon="-91.010564574971795">
+    <ele>170.03759769999999</ele>
+    <name>085</name>
+    <cmt>22-FEB-12 17:54:38</cmt>
+    <desc>22-FEB-12 17:54:38</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.543213540688157" lon="-91.011061118915677">
+    <ele>169.55688480000001</ele>
+    <name>086</name>
+    <cmt>22-FEB-12 17:55:12</cmt>
+    <desc>22-FEB-12 17:55:12</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542884718626738" lon="-91.01116681471467">
+    <ele>171.23925779999999</ele>
+    <name>087</name>
+    <cmt>22-FEB-12 17:55:36</cmt>
+    <desc>22-FEB-12 17:55:36</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542686235159636" lon="-91.011292040348053">
+    <ele>173.40222170000001</ele>
+    <name>088</name>
+    <cmt>22-FEB-12 17:55:55</cmt>
+    <desc>22-FEB-12 17:55:55</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542620437219739" lon="-91.011205203831196">
+    <ele>174.36352539999999</ele>
+    <name>089</name>
+    <cmt>22-FEB-12 17:56:04</cmt>
+    <desc>22-FEB-12 17:56:04</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542400663718581" lon="-91.011200258508325">
+    <ele>176.52648930000001</ele>
+    <name>090</name>
+    <cmt>22-FEB-12 17:56:21</cmt>
+    <desc>22-FEB-12 17:56:21</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.5423703212291" lon="-91.011303020641208">
+    <ele>177.48779300000001</ele>
+    <name>091</name>
+    <cmt>22-FEB-12 17:56:29</cmt>
+    <desc>22-FEB-12 17:56:29</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542190613225102" lon="-91.011334201321006">
+    <ele>178.68945310000001</ele>
+    <name>092</name>
+    <cmt>22-FEB-12 17:56:44</cmt>
+    <desc>22-FEB-12 17:56:44</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.542123725637794" lon="-91.011212663725019">
+    <ele>178.9298096</ele>
+    <name>093</name>
+    <cmt>22-FEB-12 17:56:54</cmt>
+    <desc>22-FEB-12 17:56:54</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540942464023829" lon="-91.012936821207404">
+    <ele>187.82177730000001</ele>
+    <name>094</name>
+    <cmt>22-FEB-12 17:59:38</cmt>
+    <desc>22-FEB-12 17:59:38</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540753284469247" lon="-91.01288971491158">
+    <ele>186.37988279999999</ele>
+    <name>095</name>
+    <cmt>22-FEB-12 17:59:55</cmt>
+    <desc>22-FEB-12 17:59:55</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540695868432522" lon="-91.012728363275528">
+    <ele>185.41857909999999</ele>
+    <name>096</name>
+    <cmt>22-FEB-12 18:00:08</cmt>
+    <desc>22-FEB-12 18:00:08</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540530661121011" lon="-91.012643538415432">
+    <ele>182.29431149999999</ele>
+    <name>097</name>
+    <cmt>22-FEB-12 18:00:23</cmt>
+    <desc>22-FEB-12 18:00:23</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540470814332366" lon="-91.012362660840154">
+    <ele>180.61206050000001</ele>
+    <name>098</name>
+    <cmt>22-FEB-12 18:00:42</cmt>
+    <desc>22-FEB-12 18:00:42</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540555387735367" lon="-91.012193262577057">
+    <ele>178.68945310000001</ele>
+    <name>099</name>
+    <cmt>22-FEB-12 18:00:55</cmt>
+    <desc>22-FEB-12 18:00:55</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540467126294971" lon="-91.011984804645181">
+    <ele>177.72814940000001</ele>
+    <name>100</name>
+    <cmt>22-FEB-12 18:01:12</cmt>
+    <desc>22-FEB-12 18:01:12</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540569134056568" lon="-91.011843737214804">
+    <ele>176.7668457</ele>
+    <name>101</name>
+    <cmt>22-FEB-12 18:01:24</cmt>
+    <desc>22-FEB-12 18:01:24</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540475089102983" lon="-91.011631339788437">
+    <ele>176.28613279999999</ele>
+    <name>102</name>
+    <cmt>22-FEB-12 18:01:40</cmt>
+    <desc>22-FEB-12 18:01:40</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540562763810158" lon="-91.011517681181431">
+    <ele>175.805542</ele>
+    <name>103</name>
+    <cmt>22-FEB-12 18:01:51</cmt>
+    <desc>22-FEB-12 18:01:51</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540475759655237" lon="-91.011298075318336">
+    <ele>174.8442383</ele>
+    <name>104</name>
+    <cmt>22-FEB-12 18:02:06</cmt>
+    <desc>22-FEB-12 18:02:06</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540563769638538" lon="-91.011182069778442">
+    <ele>174.8442383</ele>
+    <name>105</name>
+    <cmt>22-FEB-12 18:02:16</cmt>
+    <desc>22-FEB-12 18:02:16</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540572822093964" lon="-91.010983502492309">
+    <ele>175.56518550000001</ele>
+    <name>106</name>
+    <cmt>22-FEB-12 18:02:28</cmt>
+    <desc>22-FEB-12 18:02:28</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540483135730028" lon="-91.010905718430877">
+    <ele>176.28613279999999</ele>
+    <name>107</name>
+    <cmt>22-FEB-12 18:02:37</cmt>
+    <desc>22-FEB-12 18:02:37</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540463522076607" lon="-91.010661805048585">
+    <ele>177.72814940000001</ele>
+    <name>108</name>
+    <cmt>22-FEB-12 18:02:52</cmt>
+    <desc>22-FEB-12 18:02:52</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.5405501909554" lon="-91.010547140613198">
+    <ele>178.44909670000001</ele>
+    <name>109</name>
+    <cmt>22-FEB-12 18:03:03</cmt>
+    <desc>22-FEB-12 18:03:03</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540477687492967" lon="-91.010277662426233">
+    <ele>180.852417</ele>
+    <name>110</name>
+    <cmt>22-FEB-12 18:03:21</cmt>
+    <desc>22-FEB-12 18:03:21</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.54054432362318" lon="-91.010175906121731">
+    <ele>181.33300779999999</ele>
+    <name>111</name>
+    <cmt>22-FEB-12 18:03:31</cmt>
+    <desc>22-FEB-12 18:03:31</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540482884272933" lon="-91.010043974965811">
+    <ele>181.81359860000001</ele>
+    <name>112</name>
+    <cmt>22-FEB-12 18:03:43</cmt>
+    <desc>22-FEB-12 18:03:43</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540479363873601" lon="-91.009732335805893">
+    <ele>182.53466800000001</ele>
+    <name>113</name>
+    <cmt>22-FEB-12 18:04:03</cmt>
+    <desc>22-FEB-12 18:04:03</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.54057801887393" lon="-91.009597135707736">
+    <ele>182.77502440000001</ele>
+    <name>114</name>
+    <cmt>22-FEB-12 18:04:15</cmt>
+    <desc>22-FEB-12 18:04:15</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540510963648558" lon="-91.009423295035958">
+    <ele>182.53466800000001</ele>
+    <name>115</name>
+    <cmt>22-FEB-12 18:04:27</cmt>
+    <desc>22-FEB-12 18:04:27</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540550526231527" lon="-91.009128838777542">
+    <ele>183.0152588</ele>
+    <name>116</name>
+    <cmt>22-FEB-12 18:04:45</cmt>
+    <desc>22-FEB-12 18:04:45</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540665609762073" lon="-91.008997578173876">
+    <ele>183.25561519999999</ele>
+    <name>117</name>
+    <cmt>22-FEB-12 18:04:57</cmt>
+    <desc>22-FEB-12 18:04:57</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540623616427183" lon="-91.00880672223866">
+    <ele>183.25561519999999</ele>
+    <name>118</name>
+    <cmt>22-FEB-12 18:05:10</cmt>
+    <desc>22-FEB-12 18:05:10</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540744567289948" lon="-91.00868945941329">
+    <ele>183.0152588</ele>
+    <name>119</name>
+    <cmt>22-FEB-12 18:05:22</cmt>
+    <desc>22-FEB-12 18:05:22</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540690587833524" lon="-91.008531041443348">
+    <ele>183.0152588</ele>
+    <name>120</name>
+    <cmt>22-FEB-12 18:05:33</cmt>
+    <desc>22-FEB-12 18:05:33</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540730737149715" lon="-91.0082917381078">
+    <ele>182.29431149999999</ele>
+    <name>121</name>
+    <cmt>22-FEB-12 18:05:49</cmt>
+    <desc>22-FEB-12 18:05:49</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.54088437743485" lon="-91.008222922682762">
+    <ele>182.0539551</ele>
+    <name>122</name>
+    <cmt>22-FEB-12 18:06:03</cmt>
+    <desc>22-FEB-12 18:06:03</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.540909606963396" lon="-91.008071377873421">
+    <ele>182.0539551</ele>
+    <name>123</name>
+    <cmt>22-FEB-12 18:06:14</cmt>
+    <desc>22-FEB-12 18:06:14</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541041202843189" lon="-91.007985882461071">
+    <ele>181.33300779999999</ele>
+    <name>124</name>
+    <cmt>22-FEB-12 18:06:26</cmt>
+    <desc>22-FEB-12 18:06:26</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541245805099607" lon="-91.007964089512825">
+    <ele>180.61206050000001</ele>
+    <name>125</name>
+    <cmt>22-FEB-12 18:06:43</cmt>
+    <desc>22-FEB-12 18:06:43</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541390560567379" lon="-91.0081397742033">
+    <ele>178.20874019999999</ele>
+    <name>126</name>
+    <cmt>22-FEB-12 18:06:59</cmt>
+    <desc>22-FEB-12 18:06:59</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541528191417456" lon="-91.008068025112152">
+    <ele>177.0072021</ele>
+    <name>127</name>
+    <cmt>22-FEB-12 18:07:11</cmt>
+    <desc>22-FEB-12 18:07:11</desc>
+    <sym>Custom 18</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.541678311303258" lon="-91.00811529904604">
+    <ele>176.04577639999999</ele>
+    <name>128</name>
+    <cmt>22-FEB-12 18:07:25</cmt>
+    <desc>22-FEB-12 18:07:25</desc>
+    <sym>Custom 1</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>ACTIVE LOG 002</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>Transparent</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="38.545095361769199" lon="-91.010415041819215">
+        <ele>174.6165771</ele>
+        <time>2012-02-22T23:30:08Z</time>
+      </trkpt>
+      <trkpt lat="38.545088237151504" lon="-91.010192921385169">
+        <ele>176.05859380000001</ele>
+        <time>2012-02-22T23:32:15Z</time>
+      </trkpt>
+      <trkpt lat="38.544934093952179" lon="-91.010179091244936">
+        <ele>174.13586430000001</ele>
+        <time>2012-02-22T23:32:28Z</time>
+      </trkpt>
+      <trkpt lat="38.544866368174553" lon="-91.010337425395846">
+        <ele>173.17468260000001</ele>
+        <time>2012-02-22T23:32:41Z</time>
+      </trkpt>
+      <trkpt lat="38.544745836406946" lon="-91.010403139516711">
+        <ele>172.21325680000001</ele>
+        <time>2012-02-22T23:32:54Z</time>
+      </trkpt>
+      <trkpt lat="38.54458917863667" lon="-91.01043046452105">
+        <ele>169.81005859999999</ele>
+        <time>2012-02-22T23:33:06Z</time>
+      </trkpt>
+      <trkpt lat="38.544517764821649" lon="-91.010273639112711">
+        <ele>170.29064940000001</ele>
+        <time>2012-02-22T23:33:21Z</time>
+      </trkpt>
+      <trkpt lat="38.544361358508468" lon="-91.010261736810207">
+        <ele>167.88732909999999</ele>
+        <time>2012-02-22T23:33:33Z</time>
+      </trkpt>
+      <trkpt lat="38.544205036014318" lon="-91.010319320484996">
+        <ele>166.4453125</ele>
+        <time>2012-02-22T23:33:45Z</time>
+      </trkpt>
+      <trkpt lat="38.544064639136195" lon="-91.010417137295008">
+        <ele>165.96472170000001</ele>
+        <time>2012-02-22T23:33:57Z</time>
+      </trkpt>
+      <trkpt lat="38.54394368827343" lon="-91.010544877499342">
+        <ele>165.96472170000001</ele>
+        <time>2012-02-22T23:34:08Z</time>
+      </trkpt>
+      <trkpt lat="38.543836064636707" lon="-91.010696673765779">
+        <ele>165.00341800000001</ele>
+        <time>2012-02-22T23:34:19Z</time>
+      </trkpt>
+      <trkpt lat="38.543712263926864" lon="-91.01081058382988">
+        <ele>164.5227051</ele>
+        <time>2012-02-22T23:34:30Z</time>
+      </trkpt>
+      <trkpt lat="38.543575387448072" lon="-91.010913932695985">
+        <ele>164.5227051</ele>
+        <time>2012-02-22T23:34:42Z</time>
+      </trkpt>
+      <trkpt lat="38.543431637808681" lon="-91.011033039540052">
+        <ele>165.96472170000001</ele>
+        <time>2012-02-22T23:34:54Z</time>
+      </trkpt>
+      <trkpt lat="38.543279338628054" lon="-91.011143596842885">
+        <ele>166.4453125</ele>
+        <time>2012-02-22T23:35:07Z</time>
+      </trkpt>
+      <trkpt lat="38.543121758848429" lon="-91.011212076991796">
+        <ele>166.92602539999999</ele>
+        <time>2012-02-22T23:35:19Z</time>
+      </trkpt>
+      <trkpt lat="38.54298303835094" lon="-91.011315090581775">
+        <ele>170.29064940000001</ele>
+        <time>2012-02-22T23:35:32Z</time>
+      </trkpt>
+      <trkpt lat="38.542966190725565" lon="-91.011517765000463">
+        <ele>171.25207520000001</ele>
+        <time>2012-02-22T23:35:43Z</time>
+      </trkpt>
+      <trkpt lat="38.542907936498523" lon="-91.011740891262889">
+        <ele>172.21325680000001</ele>
+        <time>2012-02-22T23:35:55Z</time>
+      </trkpt>
+      <trkpt lat="38.5428711399436" lon="-91.011943984776735">
+        <ele>173.6552734</ele>
+        <time>2012-02-22T23:36:06Z</time>
+      </trkpt>
+      <trkpt lat="38.542804587632418" lon="-91.01211816072464">
+        <ele>174.13586430000001</ele>
+        <time>2012-02-22T23:36:18Z</time>
+      </trkpt>
+      <trkpt lat="38.542690090835094" lon="-91.012244559824467">
+        <ele>175.09728999999999</ele>
+        <time>2012-02-22T23:36:29Z</time>
+      </trkpt>
+      <trkpt lat="38.542651366442442" lon="-91.012444887310266">
+        <ele>176.5393066</ele>
+        <time>2012-02-22T23:36:42Z</time>
+      </trkpt>
+      <trkpt lat="38.542690677568316" lon="-91.012613028287888">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:36:54Z</time>
+      </trkpt>
+      <trkpt lat="38.542629238218069" lon="-91.012803297489882">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:37:06Z</time>
+      </trkpt>
+      <trkpt lat="38.542506275698543" lon="-91.012889882549644">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:37:19Z</time>
+      </trkpt>
+      <trkpt lat="38.542462522163987" lon="-91.013075793161988">
+        <ele>177.98120119999999</ele>
+        <time>2012-02-22T23:37:31Z</time>
+      </trkpt>
+      <trkpt lat="38.54253888130188" lon="-91.013225661590695">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:37:44Z</time>
+      </trkpt>
+      <trkpt lat="38.542506359517574" lon="-91.013420876115561">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:37:56Z</time>
+      </trkpt>
+      <trkpt lat="38.542445590719581" lon="-91.01353176869452">
+        <ele>176.5393066</ele>
+        <time>2012-02-22T23:38:08Z</time>
+      </trkpt>
+      <trkpt lat="38.542475765570998" lon="-91.013724217191339">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:38:19Z</time>
+      </trkpt>
+      <trkpt lat="38.542411979287863" lon="-91.01389286108315">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:38:30Z</time>
+      </trkpt>
+      <trkpt lat="38.542295470833778" lon="-91.013938458636403">
+        <ele>177.98120119999999</ele>
+        <time>2012-02-22T23:38:42Z</time>
+      </trkpt>
+      <trkpt lat="38.542227325960994" lon="-91.014067372307181">
+        <ele>179.4232178</ele>
+        <time>2012-02-22T23:38:54Z</time>
+      </trkpt>
+      <trkpt lat="38.542087180539966" lon="-91.014157896861434">
+        <ele>181.34582520000001</ele>
+        <time>2012-02-22T23:39:07Z</time>
+      </trkpt>
+      <trkpt lat="38.541937898844481" lon="-91.014132667332888">
+        <ele>182.7878418</ele>
+        <time>2012-02-22T23:39:19Z</time>
+      </trkpt>
+      <trkpt lat="38.541819965466857" lon="-91.014127638190985">
+        <ele>183.7490234</ele>
+        <time>2012-02-22T23:39:32Z</time>
+      </trkpt>
+      <trkpt lat="38.541681580245495" lon="-91.014161081984639">
+        <ele>184.7105713</ele>
+        <time>2012-02-22T23:39:44Z</time>
+      </trkpt>
+      <trkpt lat="38.541527772322297" lon="-91.014101235195994">
+        <ele>185.6717529</ele>
+        <time>2012-02-22T23:39:56Z</time>
+      </trkpt>
+      <trkpt lat="38.541401959955692" lon="-91.013980787247419">
+        <ele>186.15246579999999</ele>
+        <time>2012-02-22T23:40:08Z</time>
+      </trkpt>
+      <trkpt lat="38.541316883638501" lon="-91.013801163062453">
+        <ele>187.11376949999999</ele>
+        <time>2012-02-22T23:40:20Z</time>
+      </trkpt>
+      <trkpt lat="38.54137203656137" lon="-91.013625981286168">
+        <ele>188.07507319999999</ele>
+        <time>2012-02-22T23:40:33Z</time>
+      </trkpt>
+      <trkpt lat="38.54129827581346" lon="-91.013451386243105">
+        <ele>187.5943604</ele>
+        <time>2012-02-22T23:40:46Z</time>
+      </trkpt>
+      <trkpt lat="38.541320571675897" lon="-91.013255584985018">
+        <ele>188.07507319999999</ele>
+        <time>2012-02-22T23:40:57Z</time>
+      </trkpt>
+      <trkpt lat="38.541397266089916" lon="-91.013094233348966">
+        <ele>187.5943604</ele>
+        <time>2012-02-22T23:41:08Z</time>
+      </trkpt>
+      <trkpt lat="38.541445462033153" lon="-91.012913519516587">
+        <ele>187.5943604</ele>
+        <time>2012-02-22T23:41:20Z</time>
+      </trkpt>
+      <trkpt lat="38.541474128141999" lon="-91.012720232829452">
+        <ele>187.11376949999999</ele>
+        <time>2012-02-22T23:41:32Z</time>
+      </trkpt>
+      <trkpt lat="38.541418891400099" lon="-91.01255209185183">
+        <ele>186.15246579999999</ele>
+        <time>2012-02-22T23:41:46Z</time>
+      </trkpt>
+      <trkpt lat="38.541490640491247" lon="-91.012400295585394">
+        <ele>184.7105713</ele>
+        <time>2012-02-22T23:41:58Z</time>
+      </trkpt>
+      <trkpt lat="38.541521737352014" lon="-91.012206086888909">
+        <ele>185.19116210000001</ele>
+        <time>2012-02-22T23:42:10Z</time>
+      </trkpt>
+      <trkpt lat="38.541518216952682" lon="-91.012021098285913">
+        <ele>185.19116210000001</ele>
+        <time>2012-02-22T23:42:21Z</time>
+      </trkpt>
+      <trkpt lat="38.541433727368712" lon="-91.011859579011798">
+        <ele>184.22985840000001</ele>
+        <time>2012-02-22T23:42:34Z</time>
+      </trkpt>
+      <trkpt lat="38.541513774544001" lon="-91.011697975918651">
+        <ele>183.7490234</ele>
+        <time>2012-02-22T23:42:46Z</time>
+      </trkpt>
+      <trkpt lat="38.54144336655736" lon="-91.011532936245203">
+        <ele>183.7490234</ele>
+        <time>2012-02-22T23:42:58Z</time>
+      </trkpt>
+      <trkpt lat="38.541433559730649" lon="-91.011340571567416">
+        <ele>183.7490234</ele>
+        <time>2012-02-22T23:43:10Z</time>
+      </trkpt>
+      <trkpt lat="38.541429033502936" lon="-91.011151475831866">
+        <ele>183.26843260000001</ele>
+        <time>2012-02-22T23:43:21Z</time>
+      </trkpt>
+      <trkpt lat="38.541484773159027" lon="-91.01100068539381">
+        <ele>183.7490234</ele>
+        <time>2012-02-22T23:43:33Z</time>
+      </trkpt>
+      <trkpt lat="38.54148929938674" lon="-91.010833298787475">
+        <ele>184.22985840000001</ele>
+        <time>2012-02-22T23:43:45Z</time>
+      </trkpt>
+      <trkpt lat="38.54149516671896" lon="-91.010638922452927">
+        <ele>184.22985840000001</ele>
+        <time>2012-02-22T23:43:57Z</time>
+      </trkpt>
+      <trkpt lat="38.541389890015125" lon="-91.010534064844251">
+        <ele>185.6717529</ele>
+        <time>2012-02-22T23:44:10Z</time>
+      </trkpt>
+      <trkpt lat="38.541359379887581" lon="-91.010331641882658">
+        <ele>185.19116210000001</ele>
+        <time>2012-02-22T23:44:22Z</time>
+      </trkpt>
+      <trkpt lat="38.541429536417127" lon="-91.0101826954633">
+        <ele>185.6717529</ele>
+        <time>2012-02-22T23:44:35Z</time>
+      </trkpt>
+      <trkpt lat="38.541351165622473" lon="-91.010039616376162">
+        <ele>185.6717529</ele>
+        <time>2012-02-22T23:44:47Z</time>
+      </trkpt>
+      <trkpt lat="38.541379328817129" lon="-91.009867619723082">
+        <ele>185.19116210000001</ele>
+        <time>2012-02-22T23:45:00Z</time>
+      </trkpt>
+      <trkpt lat="38.541525425389409" lon="-91.009851694107056">
+        <ele>185.19116210000001</ele>
+        <time>2012-02-22T23:45:12Z</time>
+      </trkpt>
+      <trkpt lat="38.541681077331305" lon="-91.00986267440021">
+        <ele>184.22985840000001</ele>
+        <time>2012-02-22T23:45:24Z</time>
+      </trkpt>
+      <trkpt lat="38.541850140318274" lon="-91.009864266961813">
+        <ele>183.7490234</ele>
+        <time>2012-02-22T23:45:36Z</time>
+      </trkpt>
+      <trkpt lat="38.54200336150825" lon="-91.009877175092697">
+        <ele>183.7490234</ele>
+        <time>2012-02-22T23:45:48Z</time>
+      </trkpt>
+      <trkpt lat="38.542162785306573" lon="-91.009899219498038">
+        <ele>182.7878418</ele>
+        <time>2012-02-22T23:46:00Z</time>
+      </trkpt>
+      <trkpt lat="38.542331093922257" lon="-91.009911289438605">
+        <ele>181.82641599999999</ele>
+        <time>2012-02-22T23:46:12Z</time>
+      </trkpt>
+      <trkpt lat="38.542461935430765" lon="-91.009895699098706">
+        <ele>180.86523439999999</ele>
+        <time>2012-02-22T23:46:25Z</time>
+      </trkpt>
+      <trkpt lat="38.54238691739738" lon="-91.009760163724422">
+        <ele>181.82641599999999</ele>
+        <time>2012-02-22T23:46:37Z</time>
+      </trkpt>
+      <trkpt lat="38.542220536619425" lon="-91.009789584204555">
+        <ele>181.34582520000001</ele>
+        <time>2012-02-22T23:46:50Z</time>
+      </trkpt>
+      <trkpt lat="38.542049629613757" lon="-91.009783884510398">
+        <ele>183.26843260000001</ele>
+        <time>2012-02-22T23:47:02Z</time>
+      </trkpt>
+      <trkpt lat="38.541894732043147" lon="-91.009782459586859">
+        <ele>184.22985840000001</ele>
+        <time>2012-02-22T23:47:14Z</time>
+      </trkpt>
+      <trkpt lat="38.541736816987395" lon="-91.009788494557142">
+        <ele>184.7105713</ele>
+        <time>2012-02-22T23:47:26Z</time>
+      </trkpt>
+      <trkpt lat="38.541577728465199" lon="-91.009764270856977">
+        <ele>184.22985840000001</ele>
+        <time>2012-02-22T23:47:38Z</time>
+      </trkpt>
+      <trkpt lat="38.541428279131651" lon="-91.009735018014908">
+        <ele>185.19116210000001</ele>
+        <time>2012-02-22T23:47:49Z</time>
+      </trkpt>
+      <trkpt lat="38.54132266715169" lon="-91.009581880643964">
+        <ele>184.7105713</ele>
+        <time>2012-02-22T23:48:01Z</time>
+      </trkpt>
+      <trkpt lat="38.541331635788083" lon="-91.009372165426612">
+        <ele>183.7490234</ele>
+        <time>2012-02-22T23:48:13Z</time>
+      </trkpt>
+      <trkpt lat="38.541356865316629" lon="-91.009170077741146">
+        <ele>181.82641599999999</ele>
+        <time>2012-02-22T23:48:25Z</time>
+      </trkpt>
+      <trkpt lat="38.541397685185075" lon="-91.008976958692074">
+        <ele>179.90380859999999</ele>
+        <time>2012-02-22T23:48:37Z</time>
+      </trkpt>
+      <trkpt lat="38.541509164497256" lon="-91.008876459673047">
+        <ele>179.4232178</ele>
+        <time>2012-02-22T23:48:50Z</time>
+      </trkpt>
+      <trkpt lat="38.541565239429474" lon="-91.008685017004609">
+        <ele>177.98120119999999</ele>
+        <time>2012-02-22T23:49:03Z</time>
+      </trkpt>
+      <trkpt lat="38.541613267734647" lon="-91.008488964289427">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:49:15Z</time>
+      </trkpt>
+      <trkpt lat="38.541639167815447" lon="-91.008312273770571">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:49:27Z</time>
+      </trkpt>
+      <trkpt lat="38.541757939383388" lon="-91.008173385635018">
+        <ele>176.05859380000001</ele>
+        <time>2012-02-22T23:49:39Z</time>
+      </trkpt>
+      <trkpt lat="38.541897078976035" lon="-91.008247565478086">
+        <ele>174.13586430000001</ele>
+        <time>2012-02-22T23:49:52Z</time>
+      </trkpt>
+      <trkpt lat="38.542032530531287" lon="-91.008345717564225">
+        <ele>173.17468260000001</ele>
+        <time>2012-02-22T23:50:04Z</time>
+      </trkpt>
+      <trkpt lat="38.542174436151981" lon="-91.008366672322154">
+        <ele>171.73266599999999</ele>
+        <time>2012-02-22T23:50:17Z</time>
+      </trkpt>
+      <trkpt lat="38.542295638471842" lon="-91.008374886587262">
+        <ele>171.25207520000001</ele>
+        <time>2012-02-22T23:50:30Z</time>
+      </trkpt>
+      <trkpt lat="38.542419020086527" lon="-91.008482677862048">
+        <ele>172.21325680000001</ele>
+        <time>2012-02-22T23:50:42Z</time>
+      </trkpt>
+      <trkpt lat="38.542547766119242" lon="-91.008417131379247">
+        <ele>171.25207520000001</ele>
+        <time>2012-02-22T23:50:55Z</time>
+      </trkpt>
+      <trkpt lat="38.542681960389018" lon="-91.008497094735503">
+        <ele>171.25207520000001</ele>
+        <time>2012-02-22T23:51:08Z</time>
+      </trkpt>
+      <trkpt lat="38.542767120525241" lon="-91.008575465530157">
+        <ele>170.77136229999999</ele>
+        <time>2012-02-22T23:51:20Z</time>
+      </trkpt>
+      <trkpt lat="38.542906176298857" lon="-91.008535735309124">
+        <ele>170.29064940000001</ele>
+        <time>2012-02-22T23:51:31Z</time>
+      </trkpt>
+      <trkpt lat="38.542982116341591" lon="-91.008688285946846">
+        <ele>169.81005859999999</ele>
+        <time>2012-02-22T23:51:44Z</time>
+      </trkpt>
+      <trkpt lat="38.543120585381985" lon="-91.008619135245681">
+        <ele>170.29064940000001</ele>
+        <time>2012-02-22T23:51:56Z</time>
+      </trkpt>
+      <trkpt lat="38.543270286172628" lon="-91.00866112858057">
+        <ele>168.84875489999999</ele>
+        <time>2012-02-22T23:52:08Z</time>
+      </trkpt>
+      <trkpt lat="38.543405067175627" lon="-91.00875542499125">
+        <ele>168.368042</ele>
+        <time>2012-02-22T23:52:21Z</time>
+      </trkpt>
+      <trkpt lat="38.543427865952253" lon="-91.008949466049671">
+        <ele>168.368042</ele>
+        <time>2012-02-22T23:52:34Z</time>
+      </trkpt>
+      <trkpt lat="38.54352249763906" lon="-91.009017862379551">
+        <ele>167.88732909999999</ele>
+        <time>2012-02-22T23:52:47Z</time>
+      </trkpt>
+      <trkpt lat="38.54356893338263" lon="-91.009219530969858">
+        <ele>167.88732909999999</ele>
+        <time>2012-02-22T23:52:59Z</time>
+      </trkpt>
+      <trkpt lat="38.543547140434384" lon="-91.009411895647645">
+        <ele>167.88732909999999</ele>
+        <time>2012-02-22T23:53:10Z</time>
+      </trkpt>
+      <trkpt lat="38.543456364423037" lon="-91.009520273655653">
+        <ele>168.368042</ele>
+        <time>2012-02-22T23:53:22Z</time>
+      </trkpt>
+      <trkpt lat="38.543503889814019" lon="-91.009716661646962">
+        <ele>169.3294678</ele>
+        <time>2012-02-22T23:53:34Z</time>
+      </trkpt>
+      <trkpt lat="38.543397523462772" lon="-91.009847670793533">
+        <ele>169.81005859999999</ele>
+        <time>2012-02-22T23:53:47Z</time>
+      </trkpt>
+      <trkpt lat="38.543444965034723" lon="-91.010041376575828">
+        <ele>169.81005859999999</ele>
+        <time>2012-02-22T23:53:59Z</time>
+      </trkpt>
+      <trkpt lat="38.543347986415029" lon="-91.010159896686673">
+        <ele>169.3294678</ele>
+        <time>2012-02-22T23:54:12Z</time>
+      </trkpt>
+      <trkpt lat="38.543308591470122" lon="-91.010358966886997">
+        <ele>169.81005859999999</ele>
+        <time>2012-02-22T23:54:24Z</time>
+      </trkpt>
+      <trkpt lat="38.543359721079469" lon="-91.010538591071963">
+        <ele>169.81005859999999</ele>
+        <time>2012-02-22T23:54:36Z</time>
+      </trkpt>
+      <trkpt lat="38.543329630047083" lon="-91.010716035962105">
+        <ele>169.3294678</ele>
+        <time>2012-02-22T23:54:48Z</time>
+      </trkpt>
+      <trkpt lat="38.543292665854096" lon="-91.010910160839558">
+        <ele>169.3294678</ele>
+        <time>2012-02-22T23:55:00Z</time>
+      </trkpt>
+      <trkpt lat="38.543210858479142" lon="-91.011061370372772">
+        <ele>169.3294678</ele>
+        <time>2012-02-22T23:55:12Z</time>
+      </trkpt>
+      <trkpt lat="38.543055793270469" lon="-91.0111203789711">
+        <ele>170.29064940000001</ele>
+        <time>2012-02-22T23:55:24Z</time>
+      </trkpt>
+      <trkpt lat="38.54290533810854" lon="-91.011165389791131">
+        <ele>170.77136229999999</ele>
+        <time>2012-02-22T23:55:35Z</time>
+      </trkpt>
+      <trkpt lat="38.542755637317896" lon="-91.011268738657236">
+        <ele>172.6939697</ele>
+        <time>2012-02-22T23:55:49Z</time>
+      </trkpt>
+      <trkpt lat="38.542634434998035" lon="-91.011230936273932">
+        <ele>174.6165771</ele>
+        <time>2012-02-22T23:56:02Z</time>
+      </trkpt>
+      <trkpt lat="38.542493283748627" lon="-91.011192128062248">
+        <ele>175.5778809</ele>
+        <time>2012-02-22T23:56:14Z</time>
+      </trkpt>
+      <trkpt lat="38.542375266551971" lon="-91.011251974850893">
+        <ele>177.02001949999999</ele>
+        <time>2012-02-22T23:56:26Z</time>
+      </trkpt>
+      <trkpt lat="38.542251884937286" lon="-91.011321628466249">
+        <ele>177.5006104</ele>
+        <time>2012-02-22T23:56:39Z</time>
+      </trkpt>
+      <trkpt lat="38.542143758386374" lon="-91.011253735050559">
+        <ele>178.4619141</ele>
+        <time>2012-02-22T23:56:51Z</time>
+      </trkpt>
+      <trkpt lat="38.541988860815763" lon="-91.011209227144718">
+        <ele>180.38452150000001</ele>
+        <time>2012-02-22T23:57:04Z</time>
+      </trkpt>
+      <trkpt lat="38.541832370683551" lon="-91.011233367025852">
+        <ele>181.82641599999999</ele>
+        <time>2012-02-22T23:57:16Z</time>
+      </trkpt>
+      <trkpt lat="38.541668420657516" lon="-91.011251639574766">
+        <ele>183.26843260000001</ele>
+        <time>2012-02-22T23:57:28Z</time>
+      </trkpt>
+      <trkpt lat="38.541535986587405" lon="-91.011354569345713">
+        <ele>184.7105713</ele>
+        <time>2012-02-22T23:57:40Z</time>
+      </trkpt>
+      <trkpt lat="38.541509164497256" lon="-91.011564284563065">
+        <ele>185.6717529</ele>
+        <time>2012-02-22T23:57:52Z</time>
+      </trkpt>
+      <trkpt lat="38.541503632441163" lon="-91.011778358370066">
+        <ele>185.6717529</ele>
+        <time>2012-02-22T23:58:03Z</time>
+      </trkpt>
+      <trkpt lat="38.541497932747006" lon="-91.011985559016466">
+        <ele>185.19116210000001</ele>
+        <time>2012-02-22T23:58:14Z</time>
+      </trkpt>
+      <trkpt lat="38.541500866413116" lon="-91.012185383588076">
+        <ele>186.6331787</ele>
+        <time>2012-02-22T23:58:25Z</time>
+      </trkpt>
+      <trkpt lat="38.541485359892249" lon="-91.012391662225127">
+        <ele>187.11376949999999</ele>
+        <time>2012-02-22T23:58:37Z</time>
+      </trkpt>
+      <trkpt lat="38.541398523375392" lon="-91.012554438784719">
+        <ele>187.5943604</ele>
+        <time>2012-02-22T23:58:49Z</time>
+      </trkpt>
+      <trkpt lat="38.541372120380402" lon="-91.012749737128615">
+        <ele>187.5943604</ele>
+        <time>2012-02-22T23:59:01Z</time>
+      </trkpt>
+      <trkpt lat="38.541251420974731" lon="-91.012883763760328">
+        <ele>188.07507319999999</ele>
+        <time>2012-02-22T23:59:14Z</time>
+      </trkpt>
+      <trkpt lat="38.541097277775407" lon="-91.012933384627104">
+        <ele>189.03637699999999</ele>
+        <time>2012-02-22T23:59:26Z</time>
+      </trkpt>
+      <trkpt lat="38.540942464023829" lon="-91.012937240302563">
+        <ele>187.5943604</ele>
+        <time>2012-02-22T23:59:38Z</time>
+      </trkpt>
+      <trkpt lat="38.540780441835523" lon="-91.012897677719593">
+        <ele>186.15246579999999</ele>
+        <time>2012-02-22T23:59:52Z</time>
+      </trkpt>
+      <trkpt lat="38.540698634460568" lon="-91.01275241933763">
+        <ele>185.6717529</ele>
+        <time>2012-02-23T00:00:06Z</time>
+      </trkpt>
+      <trkpt lat="38.540567541494966" lon="-91.012667175382376">
+        <ele>182.7878418</ele>
+        <time>2012-02-23T00:00:20Z</time>
+      </trkpt>
+      <trkpt lat="38.540480537340045" lon="-91.012498866766691">
+        <ele>181.34582520000001</ele>
+        <time>2012-02-23T00:00:33Z</time>
+      </trkpt>
+      <trkpt lat="38.540477184578776" lon="-91.012303736060858">
+        <ele>180.38452150000001</ele>
+        <time>2012-02-23T00:00:46Z</time>
+      </trkpt>
+      <trkpt lat="38.540558991953731" lon="-91.012139534577727">
+        <ele>178.4619141</ele>
+        <time>2012-02-23T00:00:59Z</time>
+      </trkpt>
+      <trkpt lat="38.540468635037541" lon="-91.011983882635832">
+        <ele>177.5006104</ele>
+        <time>2012-02-23T00:01:12Z</time>
+      </trkpt>
+      <trkpt lat="38.540572989732027" lon="-91.011830158531666">
+        <ele>176.05859380000001</ele>
+        <time>2012-02-23T00:01:25Z</time>
+      </trkpt>
+      <trkpt lat="38.540478441864252" lon="-91.011666459962726">
+        <ele>176.05859380000001</ele>
+        <time>2012-02-23T00:01:38Z</time>
+      </trkpt>
+      <trkpt lat="38.540556058287621" lon="-91.011525392532349">
+        <ele>175.5778809</ele>
+        <time>2012-02-23T00:01:50Z</time>
+      </trkpt>
+      <trkpt lat="38.540496462956071" lon="-91.011358592659235">
+        <ele>175.5778809</ele>
+        <time>2012-02-23T00:02:02Z</time>
+      </trkpt>
+      <trkpt lat="38.540536276996136" lon="-91.011203359812498">
+        <ele>175.09728999999999</ele>
+        <time>2012-02-23T00:02:14Z</time>
+      </trkpt>
+      <trkpt lat="38.540573325008154" lon="-91.011020382866263">
+        <ele>175.5778809</ele>
+        <time>2012-02-23T00:02:26Z</time>
+      </trkpt>
+      <trkpt lat="38.54047978296876" lon="-91.01089708507061">
+        <ele>176.05859380000001</ele>
+        <time>2012-02-23T00:02:38Z</time>
+      </trkpt>
+      <trkpt lat="38.540470981970429" lon="-91.010692734271288">
+        <ele>177.5006104</ele>
+        <time>2012-02-23T00:02:50Z</time>
+      </trkpt>
+      <trkpt lat="38.540542563423514" lon="-91.010552421212196">
+        <ele>178.4619141</ele>
+        <time>2012-02-23T00:03:02Z</time>
+      </trkpt>
+      <trkpt lat="38.540501575917006" lon="-91.01038352586329">
+        <ele>180.38452150000001</ele>
+        <time>2012-02-23T00:03:14Z</time>
+      </trkpt>
+      <trkpt lat="38.540502330288291" lon="-91.010214798152447">
+        <ele>180.86523439999999</ele>
+        <time>2012-02-23T00:03:27Z</time>
+      </trkpt>
+      <trkpt lat="38.540510460734367" lon="-91.010079430416226">
+        <ele>182.30712890000001</ele>
+        <time>2012-02-23T00:03:40Z</time>
+      </trkpt>
+      <trkpt lat="38.540472323074937" lon="-91.009899135679007">
+        <ele>182.30712890000001</ele>
+        <time>2012-02-23T00:03:53Z</time>
+      </trkpt>
+      <trkpt lat="38.540480537340045" lon="-91.00970727391541">
+        <ele>182.30712890000001</ele>
+        <time>2012-02-23T00:04:05Z</time>
+      </trkpt>
+      <trkpt lat="38.540586233139038" lon="-91.009563272818923">
+        <ele>182.7878418</ele>
+        <time>2012-02-23T00:04:17Z</time>
+      </trkpt>
+      <trkpt lat="38.540510460734367" lon="-91.009404938668013">
+        <ele>182.30712890000001</ele>
+        <time>2012-02-23T00:04:28Z</time>
+      </trkpt>
+      <trkpt lat="38.540537366643548" lon="-91.009220536798239">
+        <ele>182.7878418</ele>
+        <time>2012-02-23T00:04:39Z</time>
+      </trkpt>
+      <trkpt lat="38.540605260059237" lon="-91.009060693904757">
+        <ele>183.26843260000001</ele>
+        <time>2012-02-23T00:04:51Z</time>
+      </trkpt>
+      <trkpt lat="38.540647337213159" lon="-91.008916525170207">
+        <ele>183.26843260000001</ele>
+        <time>2012-02-23T00:05:03Z</time>
+      </trkpt>
+      <trkpt lat="38.540660664439201" lon="-91.00875249132514">
+        <ele>182.7878418</ele>
+        <time>2012-02-23T00:05:15Z</time>
+      </trkpt>
+      <trkpt lat="38.540746998041868" lon="-91.008631037548184">
+        <ele>182.7878418</ele>
+        <time>2012-02-23T00:05:26Z</time>
+      </trkpt>
+      <trkpt lat="38.540703495964408" lon="-91.008462058380246">
+        <ele>182.7878418</ele>
+        <time>2012-02-23T00:05:38Z</time>
+      </trkpt>
+      <trkpt lat="38.540737861767411" lon="-91.008278662338853">
+        <ele>182.30712890000001</ele>
+        <time>2012-02-23T00:05:50Z</time>
+      </trkpt>
+      <trkpt lat="38.540889322757721" lon="-91.008221581578255">
+        <ele>181.82641599999999</ele>
+        <time>2012-02-23T00:06:03Z</time>
+      </trkpt>
+      <trkpt lat="38.540927125141025" lon="-91.008051177486777">
+        <ele>181.82641599999999</ele>
+        <time>2012-02-23T00:06:16Z</time>
+      </trkpt>
+      <trkpt lat="38.541073137894273" lon="-91.007976662367582">
+        <ele>181.82641599999999</ele>
+        <time>2012-02-23T00:06:29Z</time>
+      </trkpt>
+      <trkpt lat="38.541230717673898" lon="-91.007960988208652">
+        <ele>179.90380859999999</ele>
+        <time>2012-02-23T00:06:42Z</time>
+      </trkpt>
+      <trkpt lat="38.541343118995428" lon="-91.00810993462801">
+        <ele>179.4232178</ele>
+        <time>2012-02-23T00:06:55Z</time>
+      </trkpt>
+      <trkpt lat="38.541483180597425" lon="-91.008100965991616">
+        <ele>177.5006104</ele>
+        <time>2012-02-23T00:07:07Z</time>
+      </trkpt>
+      <trkpt lat="38.541620895266533" lon="-91.008105659857392">
+        <ele>176.05859380000001</ele>
+        <time>2012-02-23T00:07:20Z</time>
+      </trkpt>
+      <trkpt lat="38.541655763983727" lon="-91.008123261854053">
+        <ele>174.6165771</ele>
+        <time>2012-02-23T00:07:40Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>
