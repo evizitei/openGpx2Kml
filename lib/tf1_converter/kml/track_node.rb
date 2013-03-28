@@ -19,7 +19,7 @@ module TF1Converter
         xml.Placemark(id: @track.name) do
           xml.name @track.name
           xml.description do
-            xml.cdata @filename
+            xml.cdata "Filename: #{@filename}"
           end
           xml.styleUrl "##{@track.name}_Style"
           xml.LineString do
