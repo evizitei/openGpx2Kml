@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    open_gpx_2_kml (1.0.1)
+    open_gpx_2_kml (1.0.2)
       builder (= 3.1.4)
       geo_swap (= 0.2.1)
       nokogiri (= 1.5.6)
