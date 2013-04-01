@@ -51,6 +51,10 @@ module TF1Converter
       TF1Converter::Translation.can_translate?("big-file.gpx").should be_true
     end
 
+    it 'doesnt mind caps gpx' do
+      TF1Converter::Translation.can_translate?("BIG-FILE.GPX").should be_true
+    end
+
     it 'wont take files without gpx endings' do
       TF1Converter::Translation.can_translate?("big-file.kml").should be_false
     end

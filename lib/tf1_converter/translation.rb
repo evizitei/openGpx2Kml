@@ -12,7 +12,7 @@ module TF1Converter
     end
 
     def self.can_translate?(filename)
-      filename =~ /\.gpx$/
+      filename =~ /\.(gpx|GPX)$/
     end
 
     def initialize(gpx_file)

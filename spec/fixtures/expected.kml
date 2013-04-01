@@ -3,7 +3,7 @@
   <Document>
     <open>1</open>
     <Snippet maxLines="1"/>
-    <description><![CDATA[09-01-2008 12:00:00 PM<br/><br/>TF1 Converter Version 1.0<br/>MO Task Force 1<br/>]]></description>
+    <description><![CDATA[09-01-2008 12:00:00 PM<br/><br/>OpenGpx2Kml Converter Version 1.0<br/>]]></description>
     <Style id="sn_noicon">
       <IconStyle>
         <Icon/>
