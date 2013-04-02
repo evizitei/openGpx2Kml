@@ -8,7 +8,7 @@ module TF1Converter
       Dir.foreach(input_path) do |file|
         if TF1Converter::Translation.can_translate?(file)
           input = File.open("#{input_path}/#{file}", 'r')
-          outfile = file.gsub(/\.gpx$/, '.kml')
+          outfile = translate_filename(file)
           output = File.open("#{output_path}/#{outfile}", 'w')
           TF1Converter::Translation.from(input).into(output)
         end
@@ -17,6 +17,10 @@ module TF1Converter
       Dir.foreach(output_path) do |file|
         File.delete(File.join(output_path, file)) if file =~ /\.kml$/
       end
+    end
+
+    def self.translate_filename(file)
+      file.gsub(/\.(gpx|GPX)$/, '.kml')
     end
   end
 end
