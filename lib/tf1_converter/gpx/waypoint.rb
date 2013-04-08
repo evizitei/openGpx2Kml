@@ -12,27 +12,12 @@ module TF1Converter
       end
 
       def icon_name
-        if symbol_name
-          map_entry = @icon_map[symbol_name]
-          return map_entry['icon'] if map_entry
-        end
-
-        if name
-          @icon_map.values.each do |icon_data|
-            if icon_data['name']
-              return icon_data['icon'] if icon_data['name'].upcase == name.slice(0,3).upcase
-            end
-          end
-        end
-
+        return icon_map_entry['icon'] if icon_map_entry
         'default.png'
       end
 
       def icon_meaning
-        if symbol_name
-          map_entry = @icon_map[symbol_name]
-          return map_entry['meaning'] if map_entry
-        end
+        return icon_map_entry['meaning'] if icon_map_entry
         'Default'
       end
 
@@ -76,6 +61,23 @@ module TF1Converter
         else
           nil
         end
+      end
+
+      def icon_map_entry
+        if symbol_name
+          map_entry = @icon_map[symbol_name]
+          return map_entry if map_entry
+        end
+
+        if name
+          @icon_map.values.each do |icon_data|
+            if icon_data['name']
+              return icon_data if icon_data['name'].upcase == name.slice(0,3).upcase
+            end
+          end
+        end
+
+        false
       end
 
     end

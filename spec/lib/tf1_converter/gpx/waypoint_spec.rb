@@ -67,6 +67,8 @@ module TF1Converter::Gpx
     end
 
     describe '#icon_meaning' do
+      before { node.stub_chain(:xpath, :first) { nil } }
+
       it 'returns a matching meaning from the map' do
         node.stub_chain(:children, :select, :first, :text){ 'meaningoflife' }
         icon_map['meaningoflife'] = {'meaning' => 'life'}
@@ -81,6 +83,12 @@ module TF1Converter::Gpx
       it 'gives a default value if there is no hash match' do
         node.stub_chain(:children, :select, :first, :text){ '' }
         waypoint.icon_meaning.should == 'Default'
+      end
+
+      it 'matches by name if theres no sym' do
+        waypoint = waypoint_from(waypoint_by_name_fragment)
+        icon_map['meaningoflife'] = { 'icon' => '42.png', 'name' => 'C05', 'meaning' => 'life, universe, everything'}
+        waypoint.icon_meaning.should == 'life, universe, everything'
       end
     end
 
