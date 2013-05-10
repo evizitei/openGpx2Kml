@@ -35,8 +35,12 @@ module TF1Converter
         @node.attribute('lon').value
       end
 
+      class NoElevation; end
+
       def elevation
-        @node.children.select{ |child| child.name == 'ele' }.first.text
+        ele_node = @node.children.select{ |child| child.name == 'ele' }.first
+        return ele_node.text if ele_node
+        NoElevation
       end
 
       def usng

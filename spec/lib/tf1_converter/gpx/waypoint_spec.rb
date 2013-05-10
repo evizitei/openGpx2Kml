@@ -105,5 +105,18 @@ module TF1Converter::Gpx
       end
 
     end
+
+    describe '#elevation' do
+      it 'uses the ele value' do
+        fragment = %Q{ <wpt> <ele>1.7531</ele> </wpt> }
+        waypoint_from(fragment).elevation.should == '1.7531'
+      end
+
+      it 'returns blank if there is no ele' do
+        fragment = %Q{ <wpt></wpt> }
+        waypoint_from(fragment).elevation.should == Waypoint::NoElevation
+      end
+    end
+
   end
 end

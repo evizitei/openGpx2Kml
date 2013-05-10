@@ -11,7 +11,7 @@ module TF1Converter
       CSV.open(@path, 'wb') do |csv|
         csv << ['filename', 'name', 'meaning', 'time', 'lat', 'long', 'usng', 'elevation']
         @waypoints.each do |wp|
-          csv << [raw_path, wp.name, wp.icon_meaning, wp.timestamp, wp.lat, wp.long, wp.usng, wp.elevation]
+          csv << [raw_path, wp.name, wp.icon_meaning, wp.timestamp, wp.lat, wp.long, wp.usng, ele_for(wp)]
         end
       end
     end
@@ -27,5 +27,15 @@ module TF1Converter
     def self.raw_path(path)
       path.split('.')[0...-1].join('.')
     end
+
+    private
+    def ele_for(wp)
+      if wp.elevation == Gpx::Waypoint::NoElevation
+        ''
+      else
+        wp.elevation
+      end
+    end
+
   end
 end

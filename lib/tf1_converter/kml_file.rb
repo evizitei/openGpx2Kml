@@ -73,7 +73,9 @@ module TF1Converter
       desc << '<br>' << "Filename: #{@filename}"
       desc << "<br>" << "USNG:  #{waypoint.usng}"
       desc << "<br>" << "Lat,Long:  #{waypoint.lat},#{waypoint.long}"
-      desc << "<br>" << "Elevation:  #{waypoint.elevation}"
+      if waypoint.elevation.is_a? String
+        desc << "<br>" << "Elevation:  #{waypoint.elevation}"
+      end
     end
 
   end
