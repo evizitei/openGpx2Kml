@@ -13,7 +13,7 @@ module TF1Converter
       end
     end
 
-    method_names = %w(icon_path icons colors input output use_constant_color platform)
+    method_names = %w(icon_path icons colors input output use_constant_color platform ge_symbol_name)
     method_names.each do |name|
       define_singleton_method(name.to_sym) do
         instance_variable_get("@#{name}")
@@ -22,6 +22,10 @@ module TF1Converter
 
     def self.is_windows?
       self.platform == 'WINDOWS'
+    end
+
+    def self.show_ge_symbol_names?
+      self.ge_symbol_name == 'ON'
     end
 
     def self.parse_row(row)
@@ -43,6 +47,8 @@ module TF1Converter
         @constant_color = row[0]
       elsif @last_key == 'PLATFORM'
         @platform = row[0].strip.upcase
+      elsif @last_key == 'GE_SYMBOL_NAME'
+        @ge_symbol_name = row[0].strip.upcase
       end
       if @current_control == 'ICONS'
         if row.compact.empty?

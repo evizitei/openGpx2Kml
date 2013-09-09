@@ -62,3 +62,7 @@ Default,default.png,Default,
 (use 'windows' to make file paths get translated to backslashes)
 PLATFORM
 mac
+
+(use 'ON' to have symbol names output in kmz popups from symbols)
+GE_SYMBOL_NAME
+ON

@@ -1,4 +1,5 @@
 require_relative 'kml/track_node'
+require_relative 'kml/placemark'
 
 module TF1Converter
   class KmlFile
@@ -45,38 +46,11 @@ module TF1Converter
     end
 
     def write_waypoint_xml(waypoint, xml)
-      xml.Placemark do
-        xml.name(waypoint.name)
-        xml.Snippet(maxLines: '0')
-        xml.Style(id: 'normalPlacemark') do
-          xml.IconStyle do
-            xml.Icon do
-              xml.href("files/#{waypoint.icon_name}")
-            end
-          end
-        end
-
-        xml.description do
-          xml.cdata description_for(waypoint)
-        end
-
-        xml.Point do
-          xml.coordinates "#{waypoint.long},#{waypoint.lat}"
-        end
-      end
+      placemark = Kml::Placemark.new(waypoint, @filename)
+      placemark.write_to(xml)
     end
 
-    def description_for(waypoint)
-      desc = ""
-      desc << waypoint.timestamp
-      desc << '<br>' << waypoint.icon_meaning
-      desc << '<br>' << "Filename: #{@filename}"
-      desc << "<br>" << "USNG:  #{waypoint.usng}"
-      desc << "<br>" << "Lat,Long:  #{waypoint.lat},#{waypoint.long}"
-      if waypoint.elevation.is_a? String
-        desc << "<br>" << "Elevation:  #{waypoint.elevation}"
-      end
-    end
+    
 
   end
 end

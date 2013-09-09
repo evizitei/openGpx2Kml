@@ -16,9 +16,21 @@ describe TF1Converter::Config do
     TF1Converter::Config.parse_row(["PLATFORM"])
     TF1Converter::Config.parse_row(['windows'])
     TF1Converter::Config.platform.should == "WINDOWS"
+    TF1Converter::Config.is_windows?.should be_true
 
     TF1Converter::Config.parse_row(["PLATFORM"])
     TF1Converter::Config.parse_row(["mac"])
     TF1Converter::Config.platform.should == "MAC"
+    TF1Converter::Config.is_windows?.should be_false
+  end
+
+  it 'has a configuration for displaying symbol names in google earth' do
+    TF1Converter::Config.parse_row(["GE_SYMBOL_NAME"])
+    TF1Converter::Config.parse_row(["ON"])
+    TF1Converter::Config.show_ge_symbol_names?.should be_true
+
+    TF1Converter::Config.parse_row(["GE_SYMBOL_NAME"])
+    TF1Converter::Config.parse_row(["OFF"])
+    TF1Converter::Config.show_ge_symbol_names?.should be_false
   end
 end
