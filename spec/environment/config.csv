@@ -58,3 +58,7 @@ Custom 21,22.png,Route Blocked,&22
 Custom 22,23.png,Extra 23,&23
 Custom 23,24.png,Extra 24,&24
 Default,default.png,Default,
+
+(use 'windows' to make file paths get translated to backslashes)
+PLATFORM
+mac

@@ -11,8 +11,17 @@ module TF1Converter
       CSV.open(@path, 'wb') do |csv|
         csv << ['filename', 'name', 'meaning', 'time', 'lat', 'long', 'usng', 'elevation']
         @waypoints.each do |wp|
-          csv << [raw_path, wp.name, wp.icon_meaning, wp.timestamp, wp.lat, wp.long, wp.usng, ele_for(wp)]
+          csv << [full_filename, wp.name, wp.icon_meaning, wp.timestamp, wp.lat, wp.long, wp.usng, ele_for(wp)]
         end
+      end
+    end
+
+    def full_filename
+      name = CsvFile.translate_filename(@path)
+      if ::TF1Converter::Config.is_windows?
+        name.gsub("/", "\\")
+      else
+        name
       end
     end
 

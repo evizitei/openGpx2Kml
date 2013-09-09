@@ -55,3 +55,7 @@ false
 The color to use if the constant color switch is flipped (must be a key from the colors table)
 CONSTANT_COLOR
 Blue
+
+use 'windows' to make file paths get translated to backslashes
+PLATFORM
+windows

@@ -13,10 +13,15 @@ module TF1Converter
       end
     end
 
-    %w(icon_path icons colors input output use_constant_color).each do |name|
+    method_names = %w(icon_path icons colors input output use_constant_color platform)
+    method_names.each do |name|
       define_singleton_method(name.to_sym) do
         instance_variable_get("@#{name}")
       end
+    end
+
+    def self.is_windows?
+      self.platform == 'WINDOWS'
     end
 
     def self.parse_row(row)
@@ -36,6 +41,8 @@ module TF1Converter
         @use_constant_color = row[0].strip.downcase == 'true'
       elsif @last_key == 'CONSTANT_COLOR'
         @constant_color = row[0]
+      elsif @last_key == 'PLATFORM'
+        @platform = row[0].strip.upcase
       end
       if @current_control == 'ICONS'
         if row.compact.empty?
